@@ -1,0 +1,72 @@
+
+.row {
+ width: 100%;
+ max-width: 100%;
+ margin: 0 auto;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ padding: 50px 0px;
+  
+}
+
+
+
+
+.featured-box {
+    text-align: center;
+    position: relative;
+    border-right: 1px solid #D5D8DC;
+    padding-right: 100px;
+    height: 100px;
+}
+
+.text-12 {
+    font-size: 50px; 
+    position: relative;
+  
+}
+
+
+
+ .featured-box h4 {
+        color: red; /* Changing color to red */
+    }
+    .featured-box p {
+        font-size: 20px; /* Increasing text size */
+    }
+
+  
+.featured-box2 {
+ text-align: center;
+    position: relative;
+ 
+}
+
+ .featured-box2 h4 {
+        color: red; /* Changing color to red */
+    }
+    
+    .featured-box2 p {
+        font-size: 20px; /* Increasing text size */
+    }
+    
+    
+    /* For screens smaller than 768px */
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column; /* Stack items vertically */
+    padding: 20px 0; /* Decrease top and bottom padding */
+  }
+  
+  .featured-box,
+  .featured-box2 {
+    border-right: none; /* Remove border */
+    padding-right: 0; /* Remove padding */
+    margin-bottom: 20px; /* Add space between items */
+  }
+  
+  .text-12 {
+    font-size: 30px; /* Decrease font size */
+  }
+}

@@ -1,0 +1,133 @@
+.runa {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.row-gy-5 {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 80px 0;
+    gap: 30px;
+}
+
+.col-lg-7 {
+    width: calc(90% - 20px);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .row-gy-5 {
+        flex-direction: column;
+        gap: 30px;
+        padding: 40px 5px; /* Adjust padding for smaller screens */
+    }
+    
+    .col-lg-7 {
+        width: 90%;
+        max-width: 90%;
+    }
+
+    .col-lg-7 h2 {
+        font-size: 25px; /* Adjust font size for smaller screens */
+    }
+
+    .list-style-2 li span {
+        font-size: 30px; /* Adjust font size for smaller screens */
+    }
+
+    .btn-primary {
+        font-size: 15px; /* Adjust font size for smaller screens */
+    }
+}
+
+.ps-lg-4 ul {
+    list-style: none;
+    margin-bottom: 8px;
+    text-decoration: none;
+}
+
+.list-style-2 li {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a.btn.btn-primary.rounded-pill {
+    position: relative;
+    top: 5px; 
+}
+
+h2.text-7 .text-primary {
+    color: #ff0000;
+}
+
+.list-style-2 li:nth-child(1) span {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.list-style-2 li:nth-child(1) {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D5D8DC; 
+}
+
+.list-style-2 li:nth-child(2) span {
+    color: #ff0000;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.list-style-2 li:nth-child(2) {
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 1px solid #D5D8DC; 
+}
+
+.list-style-2 li:nth-child(3) span {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.list-style-2 li:nth-child(3) {
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 1px solid #D5D8DC; 
+}
+
+.list-style-2 li:nth-child(4) span {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.list-style-2 li:nth-child(4) {
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 1px solid #D5D8DC; 
+}
+
+.btn-primary {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    border: none; 
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #590210;
+}
+
+.btn-primary:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+
+

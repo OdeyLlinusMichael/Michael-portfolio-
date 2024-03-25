@@ -1,0 +1,1158 @@
+.md2 {
+   display:flex;
+   justify-content: center;
+   align-items: center;
+    margin: 20px; /* Add margin as needed */
+}
+
+.md3 {
+    font-size: 18px; /* Adjust the font size as needed */
+    margin: 5px 50px 5px 5px; /* Add margin: top right bottom left */
+    cursor: pointer; /* Change cursor to pointer */
+    font-weight: 800; /* Increase font weight to 800 */
+    position: relative; 
+}
+
+.md3::after {
+    content: '';
+    width: 0;
+    height: 3px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+    bottom: -8px; 
+    transition: 0.5s; 
+}
+
+
+.md3.m-m::after {
+    width: 100%;
+}
+
+
+
+.porp2 {
+ display: none;
+}
+
+
+.porp2.tt-t1{
+ Display: block;
+}
+
+
+.porp2 {
+ max-width: 1920px;
+ width: 90%;
+ margin: auto;
+ padding: 10px 0px;
+}
+
+
+.porp3 {
+ display: flex;
+ gap: 30px;
+}
+
+
+.porp4{
+ display: flex;
+ flex-direction: column;
+ gap: 30px
+ 
+}
+
+
+.porp5 img{
+ width: 100%;
+ height: 100%;
+ border-radius: 9px;
+ object-fit: cover;
+ transition: transform 0.5s;
+}
+
+.porp6000 {
+ width: 100%;
+ height: 0; 
+ background: linear-gradient(rgba(0,0,0,0.6), #ff0000);
+ border-radius: 10px;
+ position: absolute;
+ left: 0;
+ bottom: 0;
+ overflow: hidden;
+ display: flex;
+ align-item: center;
+ justify-content: center;
+ flex-direction: column;
+ top: 0;
+ left: 0;
+ bottom: 0;
+ right: 0;
+ text-align: center;
+ font-size: 14px;
+ transition: height 0.5s;
+}
+
+
+.porp5 {
+ position: relative; 
+ width: 100%; 
+ border-radius: 10px;
+ left: 0;
+ bottom: 0;
+ overflow: hidden;
+ display: flex;
+ align-item: center;
+ justify-content: center;
+ flex-direction: column;
+ text-align: center;
+ 
+    
+}
+
+
+.porp6000 h3{
+ font-size: 500;
+ margin-bottom: 20px;
+}
+
+
+.porp6000 a {
+    margin: 20px auto; 
+    display: block; 
+    font-size: 18px; 
+    text-decoration: none;
+    line-height: 60px;
+    background: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+.porp6000 a svg {
+    
+    width: 40px;
+    height: 60px;
+    
+    
+}
+
+
+.porp5:hover img{
+ transform: scale(1.1)
+}
+
+
+.porp5:hover .porp6000{
+ height: 100%;
+}
+
+
+
+
+
+                  /* popup */
+
+.popup1,
+.popupa1,
+.popupaa1,
+.popupab1,
+.popupac1,
+.popupad1,
+.popupae1,
+.popupaf1,
+.popupag1,
+.popupah1,
+.popupai1,
+.popupaj1,
+.popupak1,
+.popupal1,
+.popupam1,
+.popupan1,
+.popupao1,
+.popupap1,
+.popupaq1,
+.popupar1,
+.popupas1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.1rem;
+  z-index: 20;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+}
+
+.popup1.open,
+.popupa1.open,
+.popupaa1.open,
+.popupab1.open,
+.popupac1.open,
+.popupad1.open,
+.popupae1.open,
+.popupaf1.open,
+.popupag1.open,
+.popupah1.open,
+.popupai1.open,
+.popupaj1.open,
+.popupak1.open,
+.popupal1.open,
+.popupam1.open,
+.popupan1.open,
+.popupao1.open,
+.popupap1.open,
+.popupaq1.open,
+.popupar1.open,
+.popupas1.open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.popup2,
+.popupa2,
+.popupaa2,
+.popupab2,
+.popupac2,
+.popupad2,
+.popupae2,
+.popupaf2,
+.popupag2,
+.popupah2,
+.popupai2,
+.popupaj2,
+.popupak2,
+.popupal2,
+.popupam2,
+.popupan2,
+.popupao2,
+.popupap2,
+.popupaq2,
+.popupar2,
+.popupas2 {
+  background-color: #3A3B3C;
+  
+  border-radius: 8px;
+  
+  position: relative;
+  
+  max-width: 100%; 
+  width: 90%; /* width: 1200px; padding: 40px; */
+  padding: 20px;
+}
+
+.popup3,
+.popupa3,
+.popupaa3,
+.popupab3,
+.popupac3,
+.popupad3,
+.popupae3,
+.popupaf3,
+.popupag3,
+.popupah3,
+.popupai3,
+.popupaj3,
+.popupak3,
+.popupal3,
+.popupam3,
+.popupan3,
+.popupao3,
+.popupap3,
+.popupaq3,
+.popupar3,
+.popupas3 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  column-gap: 3rem;
+}
+
+.popup4,
+.popupa4,
+.popupaa4,
+.popupab4,
+.popupac4,
+.popupad4,
+.popupae4,
+.popupaf4,
+.popupag4,
+.popupah4,
+.popupai4,
+.popupaj4,
+.popupak4,
+.popupal4,
+.popupam4,
+.popupan4,
+.popupao4,
+.popupap4,
+.popupaq4,
+.popupar4,
+.popupas4 {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  font-size: 1.5rem;
+  color: #ff0000;
+  cursor: pointer;
+}
+
+.popup4 svg,
+.popupa4 svg,
+.popupaa4 svg,
+.popupab4 svg,
+.popupac4 svg,
+.popupad4 svg,
+.popupae4 svg,
+.popupaf4 svg,
+.popupag4 svg,
+.popupah4 svg,
+.popupai4 svg,
+.popupaj4 svg,
+.popupak4 svg,
+.popupal4 svg,
+.popupam4 svg,
+.popupan4 svg,
+.popupao4 svg,
+.popupap4 svg,
+.popupaq4 svg,
+.popupar4 svg,
+.popupas4 svg {
+  width: 20px;
+  height: 60px;
+}
+
+
+.popup5,
+.popupa5,
+.popupaa5,
+.popupab5,
+.popupac5,
+.popupad5,
+.popupae5,
+.popupaf5,
+.popupag5,
+.popupah5,
+.popupai5,
+.popupaj5,
+.popupak5,
+.popupal5,
+.popupam5,
+.popupan5,
+.popupao5,
+.popupap5,
+.popupaq5,
+.popupar5,
+.popupas5 {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+  height: 700px; /* Set a fixed height for the container */
+} 
+
+.popup6,
+.popupa6,
+.popupaa6,
+.popupab6,
+.popupac6,
+.popupad6,
+.popupae6,
+.popupaf6,
+.popupag6,
+.popupah6,
+.popupai6,
+.popupaj6,
+.popupak6,
+.popupal6,
+.popupam6,
+.popupan6,
+.popupao6,
+.popupap6,
+.popupaq6,
+.popupar6,
+.popupas6 {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  max-height: 100%; /* Ensure the image doesn't exceed its container */
+  width: auto; /* Allow the image to adjust its auto */
+  height: auto; /* Allow the image to adjust its height */
+}
+
+
+.popup8,
+.popupa8,
+.popupaa8,
+.popupab8,
+.popupac8,
+.popupad8,
+.popupae8,
+.popupaf8,
+.popupag8,
+.popupah8,
+.popupai8,
+.popupaj8,
+.popupak8,
+.popupal8,
+.popupam8,
+.popupan8,
+.popupao8,
+.popupap8,
+.popupaq8,
+.popupar8,
+.popupas8,
+.popup11,
+.popupa11,
+.popupaa11,
+.popupab11,
+.popupac11,
+.popupad11,
+.popupae11,
+.popupaf11,
+.popupag11,
+.popupah11,
+.popupai11,
+.popupaj11,
+.popupak11,
+.popupal11,
+.popupam11,
+.popupan11,
+.popupao11,
+.popupap11,
+.popupaq11,
+.popupar11,
+.popupas11 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.popup10,
+.popupa10,
+.popupaa10,
+.popupab10,
+.popupac10,
+.popupad10,
+.popupae10,
+.popupaf10,
+.popupag10,
+.popupah10,
+.popupai10,
+.popupaj10,
+.popupak10,
+.popupal10,
+.popupam10,
+.popupan10,
+.popupao10,
+.popupap10,
+.popupaq10,
+.popupar10,
+.popupas10 {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.popup12 li,
+.popupa12 li,
+.popupaa12 li,
+.popupab12 li,
+.popupac12 li,
+.popupad12 li,
+.popupae12 li,
+.popupaf12 li,
+.popupag12 li,
+.popupah12 li,
+.popupai12 li,
+.popupaj12 li,
+.popupak12 li,
+.popupal12 li,
+.popupam12 li,
+.popupan12 li,
+.popupao12 li,
+.popupap12 li,
+.popupaq12 li,
+.popupar12 li,
+.popupas12 li {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+  list-style: none;
+}
+
+.popup12 li:last-child,
+.popupa12 li:last-child,
+.popupaa12 li:last-child,
+.popupab12 li:last-child,
+.popupac12 li:last-child,
+.popupad12 li:last-child,
+.popupae12 li:last-child,
+.popupaf12 li:last-child,
+.popupag12 li:last-child,
+.popupah12 li:last-child,
+.popupai12 li:last-child,
+.popupaj12 li:last-child,
+.popupak12 li:last-child,
+.popupal12 li:last-child,
+.popupam12 li:last-child,
+.popupan12 li:last-child,
+.popupao12 li:last-child,
+.popupap12 li:last-child,
+.popupaq12 li:last-child,
+.popupar12 li:last-child,
+.popupas12 li:last-child {
+  margin-bottom: 0;
+}
+
+.popup12 li span,
+.popupa12 li span,
+.popupaa12 li span,
+.popupab12 li span,
+.popupac12 li span,
+.popupad12 li span,
+.popupae12 li span,
+.popupaf12 li span,
+.popupag12 li span,
+.popupah12 li span,
+.popupai12 li span,
+.popupaj12 li span,
+.popupak12 li span,
+.popupal12 li span,
+.popupam12 li span,
+.popupan12 li span,
+.popupao12 li span,
+.popupap12 li span,
+.popupaq12 li span,
+.popupar12 li span,
+.popupas12 li span {
+  font-weight: normal;
+}
+
+.popup12 a,
+.popupa12 a,
+.popupaa12 a,
+.popupab12 a,
+.popupac12 a,
+.popupad12 a,
+.popupae12 a,
+.popupaf12 a,
+.popupag12 a,
+.popupah12 a,
+.popupai12 a,
+.popupaj12 a,
+.popupak12 a,
+.popupal12 a,
+.popupam12 a,
+.popupan12 a,
+.popupao12 a,
+.popupap12 a,
+.popupaq12 a,
+.popupar12 a,
+.popupas12 a {
+  color: #ff0000;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+
+                    /* popup all ended */
+
+
+
+
+
+
+
+
+
+
+.popupuia1,
+.popupuib1,
+.popupuic1,
+.popupuid1,
+.popupuie1,
+.popupuif1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.1rem;
+  z-index: 20;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+}
+
+.popupuia1.open,
+.popupuib1.open,
+.popupuic1.open,
+.popupuid1.open,
+.popupuie1.open,
+.popupuif1.open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.popupuia2,
+.popupuib2,
+.popupuic2,
+.popupuid2,
+.popupuie2,
+.popupuif2 {
+  background-color: #3A3B3C;
+  width: 1200px;
+  border-radius: 8px;
+  padding: 40px;
+  position: relative;
+}
+
+.popupuia3,
+.popupuib3,
+.popupuic3,
+.popupuid3,
+.popupuie3,
+.popupuif3 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  column-gap: 3rem;
+}
+
+.popupuia4,
+.popupuib4,
+.popupuic4,
+.popupuid4,
+.popupuie4,
+.popupuif4 {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  font-size: 1.5rem;
+  color: #ff0000;
+  cursor: pointer;
+}
+
+.popupuia4 svg,
+.popupuib4 svg,
+.popupuic4 svg,
+.popupuid4 svg,
+.popupuie4 svg,
+.popupuif4 svg {
+  width: 20px;
+  height: 60px;
+}
+
+.popupuia8,
+.popupuia11,
+.popupuib8,
+.popupuib11,
+.popupuic8,
+.popupuic11,
+.popupuid8,
+.popupuid11,
+.popupuie8,
+.popupuie11,
+.popupuif8,
+.popupuif11 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.popupuia10,
+.popupuib10,
+.popupuic10,
+.popupuid10,
+.popupuie10,
+.popupuif10 {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.popupuia12 li,
+.popupuib12 li,
+.popupuic12 li,
+.popupuid12 li,
+.popupuie12 li,
+.popupuif12 li {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+  list-style: none;
+}
+
+.popupuia12 li:last-child,
+.popupuib12 li:last-child,
+.popupuic12 li:last-child,
+.popupuid12 li:last-child,
+.popupuie12 li:last-child,
+.popupuif12 li:last-child {
+  margin-bottom: 0;
+}
+
+.popupuia12 li span,
+.popupuib12 li span,
+.popupuic12 li span,
+.popupuid12 li span,
+.popupuie12 li span,
+.popupuif12 li span {
+  font-weight: normal;
+}
+
+.popupuia12 a,
+.popupuib12 a,
+.popupuic12 a,
+.popupuid12 a,
+.popupuie12 a,
+.popupuif12 a {
+  color: #ff0000;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .md2 {
+        flex-direction: column; /* Change flex direction to stack items vertically */
+        margin: 10px; /* Adjust margin for smaller screens */
+    }
+
+    .md3 {
+        font-size: 14px; /* Adjust font size for smaller screens */
+        margin: 5px; /* Adjust margin for smaller screens */
+    }
+
+    .porp3 {
+        flex-direction: column; /* Change flex direction to stack items vertically */
+        gap: 20px; /* Adjust gap for smaller screens */
+    }
+
+    .porp4 {
+        flex-direction: column; /* Change flex direction to stack items vertically */
+        gap: 20px; /* Adjust gap for smaller screens */
+    }
+
+    .porp5 {
+        text-align: center; /* Center align text for smaller screens */
+    }
+
+    .porp6000 {
+        font-size: 12px; /* Adjust font size for smaller screens */
+    }
+
+    .porp6000 h3 {
+        font-size: 18px; /* Adjust font size for smaller screens */
+        margin-bottom: 10px; /* Adjust margin for smaller screens */
+    }
+
+    .porp6000 a {
+        line-height: 40px; /* Adjust line height for smaller screens */
+        width: 40px; /* Adjust width for smaller screens */
+        height: 40px; /* Adjust height for smaller screens */
+    }
+
+    .porp6000 a svg {
+        width: 30px; /* Adjust width for smaller screens */
+        height: 40px; /* Adjust height for smaller screens */
+    }
+        
+
+
+
+
+
+
+          /* ------------------popup All-------------------- */
+
+
+
+
+.popup2,
+.popupa2,
+.popupaa2,
+.popupab2,
+.popupac2,
+.popupad2,
+.popupae2,
+.popupaf2,
+.popupag2,
+.popupah2,
+.popupai2,
+.popupaj2,
+.popupak2,
+.popupal2,
+.popupam2,
+.popupan2,
+.popupao2,
+.popupap2,
+.popupaq2,
+.popupar2,
+.popupas2 {
+  max-width: 100%; 
+  width: 90%; /* Adjusted width for smaller screens */
+  padding: 20px; /* Reduced padding for smaller screens */
+}
+
+
+
+.popup3,
+.popupa3,
+.popupaa3,
+.popupab3,
+.popupac3,
+.popupad3,
+.popupae3,
+.popupaf3,
+.popupag3,
+.popupah3,
+.popupai3,
+.popupaj3,
+.popupak3,
+.popupal3,
+.popupam3,
+.popupan3,
+.popupao3,
+.popupap3,
+.popupaq3,
+.popupar3,
+.popupas3 {
+  display: flex;
+  flex-direction: column; /* Display in a single column on smaller screens */
+  align-items: center; /* Center items on smaller screens */
+}
+
+.popup4,
+.popupa4,
+.popupaa4,
+.popupab4,
+.popupac4,
+.popupad4,
+.popupae4,
+.popupaf4,
+.popupag4,
+.popupah4,
+.popupai4,
+.popupaj4,
+.popupak4,
+.popupal4,
+.popupam4,
+.popupan4,
+.popupao4,
+.popupap4,
+.popupaq4,
+.popupar4,
+.popupas4  {
+  top: 1rem; /* Adjusted top position for smaller screens */
+  right: 1rem; /* Adjusted right position for smaller screens */
+}
+
+
+
+
+.popup5,
+.popupa5,
+.popupaa5,
+.popupab5,
+.popupac5,
+.popupad5,
+.popupae5,
+.popupaf5,
+.popupag5,
+.popupah5,
+.popupai5,
+.popupaj5,
+.popupak5,
+.popupal5,
+.popupam5,
+.popupan5,
+.popupao5,
+.popupap5,
+.popupaq5,
+.popupar5,
+.popupas5 {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+  height: 200px; /* Set a fixed height for the container */
+} 
+
+.popup6,
+.popupa6,
+.popupaa6,
+.popupab6,
+.popupac6,
+.popupad6,
+.popupae6,
+.popupaf6,
+.popupag6,
+.popupah6,
+.popupai6,
+.popupaj6,
+.popupak6,
+.popupal6,
+.popupam6,
+.popupan6,
+.popupao6,
+.popupap6,
+.popupaq6,
+.popupar6,
+.popupas6 {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  max-height: 100%; /* Ensure the image doesn't exceed its container */
+  width: auto; /* Allow the image to adjust its auto */
+  height: auto; /* Allow the image to adjust its height */
+}
+
+
+
+.popup8,
+.popupa8,
+.popupaa8,
+.popupab8,
+.popupac8,
+.popupad8,
+.popupae8,
+.popupaf8,
+.popupag8,
+.popupah8,
+.popupai8,
+.popupaj8,
+.popupak8,
+.popupal8,
+.popupam8,
+.popupan8,
+.popupao8,
+.popupap8,
+.popupaq8,
+.popupar8,
+.popupas8,
+.popup11,
+.popupa11,
+.popupaa11,
+.popupab11,
+.popupac11,
+.popupad11,
+.popupae11,
+.popupaf11,
+.popupag11,
+.popupah11,
+.popupai11,
+.popupaj11,
+.popupak11,
+.popupal11,
+.popupam11,
+.popupan11,
+.popupao11,
+.popupap11,
+.popupaq11,
+.popupar11,
+.popupas11 {
+  font-size: 11px; /* Decreased font size for smaller screens */
+  text-align: center; /* Center text on smaller screens */
+}
+
+.popup10,
+.popupa10,
+.popupaa10,
+.popupab10,
+.popupac10,
+.popupad10,
+.popupae10,
+.popupaf10,
+.popupag10,
+.popupah10,
+.popupai10,
+.popupaj10,
+.popupak10,
+.popupal10,
+.popupam10,
+.popupan10,
+.popupao10,
+.popupap10,
+.popupaq10,
+.popupar10,
+.popupas10 {
+  font-size: 15px; /* Decreased font size for smaller screens */
+  text-align: center; /* Center text on smaller screens */
+}
+
+.popup12 li,
+.popupa12 li,
+.popupaa12 li,
+.popupab12 li,
+.popupac12 li,
+.popupad12 li,
+.popupae12 li,
+.popupaf12 li,
+.popupag12 li,
+.popupah12 li,
+.popupai12 li,
+.popupaj12 li,
+.popupak12 li,
+.popupal12 li,
+.popupam12 li,
+.popupan12 li,
+.popupao12 li,
+.popupap12 li,
+.popupaq12 li,
+.popupar12 li,
+.popupas12 li {
+  font-size: 11px; /* Decreased font size for smaller screens */
+}
+
+.popup12 a,
+.popupa12 a,
+.popupaa12 a,
+.popupab12 a,
+.popupac12 a,
+.popupad12 a,
+.popupae12 a,
+.popupaf12 a,
+.popupag12 a,
+.popupah12 a,
+.popupai12 a,
+.popupaj12 a,
+.popupak12 a,
+.popupal12 a,
+.popupam12 a,
+.popupan12 a,
+.popupao12 a,
+.popupap12 a,
+.popupaq12 a,
+.popupar12 a,
+.popupas12 a {
+  color: #ff0000;
+  text-transform: lowercase; /* Corrected placement */
+}
+  
+  
+                     /* ------------------popup All ended-------------------- */
+ 
+ 
+.popupuia2,
+.popupuib2,
+.popupuic2,
+.popupuid2,
+.popupuie2,
+.popupuif2 {
+  max-width: 100%; 
+  width: 90%; /* Adjusted width for smaller screens */
+  padding: 20px; /* Reduced padding for smaller screens */
+}
+
+
+
+.popupuia3,
+.popupuib3,
+.popupuic3,
+.popupuid3,
+.popupuie3,
+.popupuif3 {
+  display: flex;
+  flex-direction: column; /* Display in a single column on smaller screens */
+  align-items: center; /* Center items on smaller screens */
+}
+
+.popupuia4,
+.popupuib4,
+.popupuic4,
+.popupuid4,
+.popupuie4,
+.popupuif4   {
+  top: 1rem; /* Adjusted top position for smaller screens */
+  right: 1rem; /* Adjusted right position for smaller screens */
+}
+
+
+
+
+.popupuia5,
+.popupuib5,
+.popupuic5,
+.popupuid5,
+.popupuie5,
+.popupuif5  {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+  height: 200px; /* Set a fixed height for the container */
+} 
+
+.popupuia6,
+.popupuib6,
+.popupuic6,
+.popupuid6,
+.popupuie6,
+.popupuif6 {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  max-height: 100%; /* Ensure the image doesn't exceed its container */
+  width: auto; /* Allow the image to adjust its auto */
+  height: auto; /* Allow the image to adjust its height */
+}
+
+
+
+.popupuia8,
+.popupuib8,
+.popupuic8,
+.popupuid8,
+.popupuie8,
+.popupuif8,
+.popupuia11,
+.popupuib11,
+.popupuic11,
+.popupuid11,
+.popupuie11,
+.popupuif11 {
+  font-size: 11px; /* Decreased font size for smaller screens */
+  text-align: center; /* Center text on smaller screens */
+}
+
+.popupuia10,
+.popupuib10,
+.popupuic10,
+.popupuid10,
+.popupuie10,
+.popupuif10 {
+  font-size: 15px; /* Decreased font size for smaller screens */
+  text-align: center; /* Center text on smaller screens */
+}
+
+.popupuia12 li,
+.popupuib12 li,
+.popupuic12 li,
+.popupuid12 li,
+.popupuie12 li,
+.popupuif12 li {
+  font-size: 11px; /* Decreased font size for smaller screens */
+}
+
+.popupuia12 a,
+.popupuib12 a,
+.popupuic12 a,
+.popupuid12 a,
+.popupuie12 a,
+.popupuif12 a {
+  color: #ff0000;
+  text-transform: lowercase; /* Corrected placement */
+}
+  
+  
+  
+}
