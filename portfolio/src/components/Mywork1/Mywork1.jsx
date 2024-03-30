@@ -1811,7 +1811,821 @@ const togglePopup = () => {
       
       
       
-                                         {/* popup all end */}
+            
+                                            {/* popup UI/UX */}
+      
+      
+      
+      
+
+
+
+
+<div className="popupgda1">
+        <div className="popupgda2">
+          <div className="popupgda3">
+            <span className="popupgda4" onClick={togglepopupgda1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+            <div className="popupgda5"><img src={gg1} alt="" className="popupgda6" /></div>
+            <div className="popupgda7">
+              <div className="popupgda8">Graphics - <span>Design</span></div>
+              <div className="popupgda9">
+                <h3 className="popupgda10">This is a flyer for an Instagram post</h3>
+                <p className="popupgda11">This flyer encapsulates the essence of really greatsite with its sleek design and compelling messaging. Crafted with attention to detail, it serves as a powerful marketing tool to engage our target audience and communicate our brand identity effectively. From its striking visuals to its concise yet impactful content, every element of the flyer is meticulously designed to leave a lasting impression and drive action. It's a testament to our commitment to excellence and innovation in every aspect of our business.</p>
+                <ul className="popupgda12">
+                  <li>Created - <span>4 dec 2020</span></li>
+                  <li>Technology - <span>illustrator & Adobe Photoshop </span></li>
+                  <li>Role - <span>Instagram post</span></li>
+                  <li>URL - <span><a href="#">none</a></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+<div className="popupgdb1">
+        <div className="popupgdb2">
+          <div className="popupgdb3">
+            <span className="popupgdb4" onClick={togglepopupgdb1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+            <div className="popupgdb5"><img src={gg2} alt="" className="popupgdb6" /></div>
+            <div className="popupgdb7">
+              <div className="popupgdb8">UI/UX - <span>Design</span></div>
+              <div className="popupgdb9">
+                <h3 className="popupgdb10"> This is a wed Design</h3>
+                <p className="popupgdb11">This UI/UX design for a portfolio website  embodies the principles of user-centric design, seamlessly blending aesthetics with functionality. With a clean and intuitive interface, navigating through the website becomes an effortless and enjoyable experience for users. From strategically placed call-to-action buttons to thoughtfully curated content layout, every element is meticulously crafted to enhance user engagement and satisfaction. This design not only reflects the brand's identity but also prioritizes user needs, ensuring a memorable and delightful online journey for visitors.</p>
+                <ul className="popupgdb12">
+                  <li>Created - <span>29 feb 2024</span></li>
+                  <li>Technology - <span>figma</span></li>
+                  <li>Role - <span>wed Design</span></li>
+                  <li>URL - <span><a href="#">www.vijufamily.com</a></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+<div className="popupgdc1">
+    <div className="popupgdc2">
+        <div className="popupgdc3">
+            <span className="popupgdc4" onClick={togglepopupgdc1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdc5"><img src={gg3} alt="" className="popupgdc6" /></div>
+            
+            <div className="popupgdc7">
+                <div className="popupgdc8">Flyer - <span>Design</span></div>
+                <div className="popupgdc9">
+                    <h3 className="popupgdc10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdc11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdc12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popupgdd1">
+       <div className="popupgdd2">
+            <div className="popupgdd3">
+                <span className="popupgdd4" onClick={togglepopupgdd1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdd5"><img src={gg4} alt="" className="popupgdd6" /></div>
+                
+                <div className="popupgdd7">
+                   <div className="popupgdd8">Logo - <span>Design</span></div>
+                   <div className="popupgdd9">
+                      <h3 className="popupgdd10"> This is a logo Design</h3>
+                      <p className="popupgdd11">This logo design for smart tech embodies innovation, professionalism, and forward-thinking vision. With its sleek and modern aesthetic, it symbolizes the company’s commitment to cutting-edge technology and excellence in its field. The minimalist yet impactful design ensures versatility across various platforms and applications, making it instantly recognizable and memorable. The combination of bold typography and iconic graphic elements conveys strength and reliability, establishing trust with clients and stakeholders. This logo serves as a powerful representation of the company’s brand identity and sets the stage for its continued success in the ever-evolving tech industry.</p>
+                      <ul className="popupgdd12">
+                           <li>Created - <span>23 Aug 2019</span></li>
+                           <li>Technology - <span>Adobe illustrator & Adobe Photoshop </span></li>
+                           <li>Role - <span>logo Design</span></li>
+                           <li>URL - <span><a href="#">none</a></span></li>
+                      </ul>
+                   </div>
+                </div>
+            </div>
+       </div>
+   </div>
+
+
+
+
+<div className="popupgde1">
+    <div className="popupgde2">
+        <div className="popupgde3">
+            <span className="popupgde4" onClick={togglepopupgde1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgde5"><img src={gg5} alt="" className="popupgde6" /></div>
+            
+            <div className="popupgde7">
+                <div className="popupgde8">Logo - <span>Design</span></div>
+                <div className="popupgde9">
+                    <h3 className="popupgde10"> This is a logo Design</h3>
+                    <p className="popupgde11">This logo design for John Kent Fashion epitomizes sophistication, elegance, and timeless style. Crafted with meticulous attention to detail, it captures the essence of the brand’s commitment to luxury and refinement. The sleek typography and tastefully integrated graphic elements convey a sense of prestige and exclusivity, reflecting the company’s dedication to high-quality craftsmanship and impeccable design. Whether featured on clothing labels, packaging, or digital platforms, this logo serves as a powerful symbol of the John Kent brand, evoking a sense of allure and sophistication that resonates with discerning fashion enthusiasts worldwide.</p>
+                    <ul className="popupgde12">
+                        <li>Created - <span>2 may 2022</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>logo Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popupgdf1">
+    <div className="popupgdf2">
+        <div className="popupgdf3">
+            <span className="popupgdf4" onClick={togglepopupgdf1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdf5"><img src={gg6} alt="" className="popupgdf6" /></div>
+            
+            <div className="popupgdf7">
+                <div className="popupgdf8">Flyer - <span>Design</span></div>
+                <div className="popupgdf9">
+                    <h3 className="popupgdf10"> This is a logo Design</h3>
+                    <p className="popupgdf11">This flyer for our online marketing agent services embodies creativity, innovation, and effectiveness. With a dynamic layout and eye-catching visuals, it grabs the audience’s attention from the get-go, compelling them to engage with our offerings. From highlighting key services to showcasing successful case studies, every element is strategically placed to communicate our expertise and value proposition. The concise yet impactful copy conveys our message clearly and persuasively, encouraging prospects to take action and reach out to us for their marketing needs. This flyer serves as a powerful tool to elevate our brand presence and attract clients in the competitive online marketing landscape.</p>
+                    <ul className="popupgdf12">
+                        <li>Created - <span>11 may 2021</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div className="popupgdg1">
+    <div className="popupgdg2">
+        <div className="popupgdg3">
+            <span className="popupgdg4" onClick={togglepopupgdg1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdg5"><img src={gg7} alt="" className="popupgdg6" /></div>
+            
+            <div className="popupgdg7">
+                <div className="popupgdg8">Flyer - <span>Design</span></div>
+                <div className="popupgdg9">
+                    <h3 className="popupgdg10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdg11">This social media flyer design beckons viewers to embark on a journey of self-discovery and wellness with our spa company’s upcoming learning event. Infused with inviting imagery and elegant typography, it promises an enriching experience for those seeking to expand their knowledge of holistic wellness practices. Whether delving into the art of relaxation techniques, skincare rituals, or mindfulness exercises, this design captivates the audience’s attention and sparks curiosity. Its clean and visually appealing layout makes essential information easily accessible, encouraging viewers to register and partake in this transformative learning opportunity. By blending education with rejuvenation, this flyer design embodies our commitment to empowering individuals on their wellness journey.</p>
+                    <ul className="popupgdg12">
+                        <li>Created - <span>29 Dec 2022</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popupgdh1">
+        <div className="popupgdh2">
+          <div className="popupgdh3">
+            <span className="popupgdh4" onClick={togglepopupgdh1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+            <div className="popupgdh5"><img src={gg8} alt="" className="popupgdh6" /></div>
+            <div className="popupgdh7">
+              <div className="popupgdh8">Graphics - <span>Design</span></div>
+              <div className="popupgdh9">
+                <h3 className="popupgdh10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdh11">This social media flyer design beckons viewers to embark on a journey of self-discovery and wellness with our spa company’s upcoming learning event. Infused with inviting imagery and elegant typography, it promises an enriching experience for those seeking to expand their knowledge of holistic wellness practices. Whether delving into the art of relaxation techniques, skincare rituals, or mindfulness exercises, this design captivates the audience’s attention and sparks curiosity. Its clean and visually appealing layout makes essential information easily accessible, encouraging viewers to register and partake in this transformative learning opportunity. By blending education with rejuvenation, this flyer design embodies our commitment to empowering individuals on their wellness journey.</p>
+                <ul className="popupgdh12">
+                  <li>Created - <span>4 dec 2020</span></li>
+                  <li>Technology - <span>illustrator & Adobe Photoshop </span></li>
+                  <li>Role - <span>Instagram post</span></li>
+                  <li>URL - <span><a href="#">none</a></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+<div className="popupgdi1">
+    <div className="popupgdi2">
+        <div className="popupgdi3">
+            <span className="popupgdi4" onClick={togglepopupgdi1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdi5"><img src={gg9} alt="" className="popupgdi6" /></div>
+            
+            <div className="popupgdi7">
+                <div className="popupgdi8">Flyer - <span>Design</span></div>
+                <div className="popupgdi9">
+                    <h3 className="popupgdi10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdi11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdi12">
+                        <li>Created - <span>9 oct 2019</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popupgdj1">
+    <div className="popupgdj2">
+        <div className="popupgdj3">
+            <span className="popupgdj4" onClick={togglepopupgdj1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdj5"><img src={gg10} alt="" className="popupgdj6" /></div>
+            
+            <div className="popupgdj7">
+                <div className="popupgdj8">Flyer - <span>Design</span></div>
+                <div className="popupgdj9">
+                    <h3 className="popupgdj10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdj11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdj12">
+                        <li>Created - <span>9 oct 2019</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popupgdk1">
+    <div className="popupgdk2">
+        <div className="popupgdk3">
+            <span className="popupgdk4" onClick={togglepopupgdk1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdk5"><img src={gg11} alt="" className="popupgdk6" /></div>
+            
+            <div className="popupgdk7">
+                <div className="popupgdk8">Flyer - <span>Design</span></div>
+                <div className="popupgdk9">
+                    <h3 className="popupgdk10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdk11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdk12">
+                         <li>Created - <span>27 oct 2019</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div className="popupgdl1">
+    <div className="popupgdl2">
+        <div className="popupgdl3">
+            <span className="popupgdl4" onClick={togglepopupgdl1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdl5"><img src={gg12} alt="" className="popupgdl6" /></div>
+            
+            <div className="popupgdl7">
+                <div className="popupgdl8">Flyer - <span>Design</span></div>
+                <div className="popupgdl9">
+                    <h3 className="popupgdl10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdl11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdl12">
+                        <li>Created - <span>9 Dec 2022</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popupgdm1">
+    <div className="popupgdm2">
+        <div className="popupgdm3">
+            <span className="popupgdm4" onClick={togglepopupgdm1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdm5"><img src={gg13} alt="" className="popupgdm6" /></div>
+            
+            <div className="popupgdm7">
+                <div className="popupgdm8">Flyer - <span>Design</span></div>
+                <div className="popupgdm9">
+                    <h3 className="popupgdm10"> This is a Flyer design for social media post</h3>
+                    <p className="popupgdm11">This social media flyer design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This flyer design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdm12">
+                        <li>Created - <span>16 jan 2024</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popupgdn1">
+     <div className="popupgdn2">
+        <div className="popupgdn3">
+            <span className="popupgdn4" onClick={togglepopupgdn1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdn5"><img src={gg14} alt="" className="popupgdn6" /></div>
+            
+            <div className="popupgdn7">
+                <div className="popupgdn8">Logo - <span>Design</span></div>
+                <div className="popupgdn9">
+                    <h3 className="popupgdn10"> This is a logo Design</h3>
+                    <p className="popupgdn11">This logo design for black blade cut epitomizes sophistication, elegance, and timeless style. Crafted with meticulous attention to detail, it captures the essence of the brand’s commitment to luxury and refinement. The sleek typography and tastefully integrated graphic elements convey a sense of prestige and exclusivity, reflecting the company’s dedication to high-quality craftsmanship and impeccable design. Whether featured on clothing labels, packaging, or digital platforms, this logo serves as a powerful symbol of the John Kent brand, evoking a sense of allure and sophistication that resonates with discerning fashion enthusiasts worldwide.</p>
+                    <ul className="popupgdn12">
+                        <li>Created - <span>26 may 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>logo Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popupgdo1">
+    <div className="popupgdo2">
+        <div className="popupgdo3">
+            <span className="popupgdo4" onClick={togglepopupgdo1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdo5"><img src={gg15} alt="" className="popupgdo6" /></div>
+            
+            <div className="popupgdo7">
+                <div className="popupgdo8">Logo - <span>Design</span></div>
+                <div className="popupgdo9">
+                    <h3 className="popupgdo10"> This is a logo Design</h3>
+                    <p className="popupgdo11">This logo design for salford epitomizes sophistication, elegance, and timeless style. Crafted with meticulous attention to detail, it captures the essence of the brand’s commitment to luxury and refinement. The sleek typography and tastefully integrated graphic elements convey a sense of prestige and exclusivity, reflecting the company’s dedication to high-quality craftsmanship and impeccable design. Whether featured on clothing labels, packaging, or digital platforms, this logo serves as a powerful symbol of the John Kent brand, evoking a sense of allure and sophistication that resonates with discerning fashion enthusiasts worldwide.</p>
+                    <ul className="popupgdo12">
+                        <li>Created - <span>26 may 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>logo Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popupgdp1">
+    <div className="popupgdp2">
+        <div className="popupgdp3">
+            <span className="popupgdp4" onClick={togglepopupgdp1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdp5"><img src={gg16} alt="" className="popupgdp6" /></div>
+            
+            <div className="popupgdp7">
+                <div className="popupgdp8">Flyer - <span>Design</span></div>
+                <div className="popupgdp9">
+                    <h3 className="popupgdp10"> This is a Flyer design for social media post</h3>
+                    <p className="popupgdp11">This social media flyer design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This flyer design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdp12">
+                        <li>Created - <span>16 jan 2024</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Flyer design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+                                                 {/* popup product design */}
+
+
+       
+
+
+<div className="popuppda1">
+    <div className="popuppda2">
+        <div className="popuppda3">
+            <span className="popuppda4" onClick={togglepopuppda1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppda5"><img src={pd1} alt="" className="popuppda6" /></div>
+            
+            <div className="popuppda7">
+                <div className="popuppda8">Product - <span>Design</span></div>
+                <div className="popuppda9">
+                    <h3 className="popuppda10"> This is a Product design for social media post</h3>
+                    <p className="popuppda11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppda12">
+                        <li>Created - <span>10 jan 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div className="popuppdb1">
+    <div className="popuppdb2">
+        <div className="popuppdb3">
+            <span className="popuppdb4" onClick={togglepopuppdb1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdb5"><img src={pd2} alt="" className="popuppdb6" /></div>
+            
+            <div className="popupgde7">
+                <div className="popupgde8">Product - <span>Design</span></div>
+                <div className="popupgde9">
+                    <h3 className="popupgde10"> This is a Product design</h3>
+                    <p className="popupgde11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgde12">
+                        <li>Created - <span>2 may 2022</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popuppdc1">
+    <div className="popuppdc2">
+        <div className="popuppdc3">
+            <span className="popuppdc4" onClick={togglepopuppdc1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdc5"><img src={pd3} alt="" className="popuppdc6" /></div>
+            
+            <div className="popuppdc7">
+                <div className="popuppdc8">Product - <span>Design</span></div>
+                <div className="popuppdc9">
+                    <h3 className="popuppdc10"> This is a Product design</h3>
+                    <p className="popuppdc11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdc12">
+                        <li>Created - <span>11 may 2021</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div className="popuppdd1">
+    <div className="popuppdd2">
+        <div className="popuppdd3">
+            <span className="popuppdd4" onClick={togglepopuppdd1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdd5"><img src={pd4} alt="" className="popuppdd6" /></div>
+            
+            <div className="popuppdd7">
+                <div className="popuppdd8">Product - <span>Design</span></div>
+                <div className="popuppdd9">
+                    <h3 className="popuppdd10"> This is a Product design for social media post</h3>
+                    <p className="popuppdd11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdd12">
+                        <li>Created - <span>29 Dec 2022</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popuppde1">
+        <div className="popuppde2">
+          <div className="popuppde3">
+            <span className="popuppde4" onClick={togglepopuppde1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+            <div className="popuppde5"><img src={pd5} alt="" className="popuppde6" /></div>
+            <div className="popuppde7">
+              <div className="popuppde8">Product - <span>Design</span></div>
+              <div className="popuppde9">
+                <h3 className="popuppde10"> This is a Product design</h3>
+                    <p className="popuppde11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                <ul className="popuppde12">
+                  <li>Created - <span>4 dec 2020</span></li>
+                  <li>Technology - <span>illustrator & Adobe Photoshop </span></li>
+                  <li>Role - <span>Product design</span></li>
+                  <li>URL - <span><a href="#">none</a></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+<div className="popuppdf1">
+    <div className="popuppdf2">
+        <div className="popuppdf3">
+            <span className="popuppdf4" onClick={togglepopuppdf1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdf5"><img src={pd6} alt="" className="popuppdf6" /></div>
+            
+            <div className="popuppdf7">
+                <div className="popuppdf8">Product - <span>Design</span></div>
+                <div className="popuppdf9">
+                    <h3 className="popuppdf10"> This is a Product design for social media post</h3>
+                    <p className="popuppdf11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdf12">
+                        <li>Created - <span>9 oct 2019</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popuppdg1">
+    <div className="popuppdg2">
+        <div className="popuppdg3">
+            <span className="popuppdg4" onClick={togglepopuppdg1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdg5"><img src={pd7} alt="" className="popuppdg6" /></div>
+            
+            <div className="popuppdg7">
+                <div className="popuppdg8">Product - <span>Design</span></div>
+                <div className="popuppdg9">
+                    <h3 className="popuppdg10"> This is a Product design</h3>
+                    <p className="popuppdg11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdg12">
+                        <li>Created - <span>9 oct 2019</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+ 
+ 
+  
+
+
+
+<div className="popuppdh1">
+    <div className="popuppdh2">
+        <div className="popuppdh3">
+            <span className="popuppdh4" onClick={togglepopuppdh1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdh5"><img src={pd8} alt="" className="popuppdh6" /></div>
+            
+            <div className="popuppdh7">
+                <div className="popuppdh8">Product - <span>Design</span></div>
+                <div className="popuppdh9">
+                    <h3 className="popuppdh10"> This is a Product design</h3>
+                    <p className="popuppdh11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdh12">
+                         <li>Created - <span>27 oct 2019</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div className="popuppdi1">
+    <div className="popuppdi2">
+        <div className="popuppdi3">
+            <span className="popuppdi4" onClick={togglepopuppdi1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdi5"><img src={pd9} alt="" className="popuppdi6" /></div>
+            
+            <div className="popuppdi7">
+                <div className="popuppdi8">Product design - <span>Design</span></div>
+                <div className="popuppdi9">
+                    <h3 className="popuppdi10"> This is a Product design</h3>
+                    <p className="popuppdi11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdi12">
+                        <li>Created - <span>9 Dec 2022</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popuppdj1">
+    <div className="popuppdj2">
+        <div className="popuppdj3">
+            <span className="popuppdj4" onClick={togglepopuppdj1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdj5"><img src={pd10} alt="" className="popuppdj6" /></div>
+            
+            <div className="popuppdj7">
+                <div className="popuppdj8">Product - <span>Design</span></div>
+                <div className="popuppdj9">
+                    <h3 className="popuppdj10"> This is a Product design for social media post</h3>
+                    <p className="popuppdj11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdj12">
+                        <li>Created - <span>16 jan 2024</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popuppdk1">
+     <div className="popuppdk2">
+        <div className="popuppdk3">
+            <span className="popuppdk4" onClick={togglepopuppdk1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdk5"><img src={pd11} alt="" className="popuppdk6" /></div>
+            
+            <div className="popuppdk7">
+                <div className="popuppdk8">Product - <span>Design</span></div>
+                <div className="popuppdk9">
+                    <h3 className="popuppdk10"> This is a Product Design</h3>
+                    <p className="popuppdk11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdk12">
+                        <li>Created - <span>26 may 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div className="popuppdl1">
+    <div className="popuppdl2">
+        <div className="popuppdl3">
+            <span className="popuppdl4" onClick={togglepopuppdl1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdl5"><img src={pd12} alt="" className="popuppdl6" /></div>
+            
+            <div className="popuppdl7">
+                <div className="popuppdl8">Product - <span>Design</span></div>
+                <div className="popuppdl9">
+                    <h3 className="popuppdl10"> This is a Product Design</h3>
+                    <p className="popuppdl11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdl12">
+                        <li>Created - <span>26 may 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div className="popuppdm1">
+    <div className="popuppdm2">
+        <div className="popuppdm3">
+            <span className="popuppdm4" onClick={togglepopuppdm1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdm5"><img src={pd13} alt="" className="popuppdm6" /></div>
+            
+            <div className="popuppdm7">
+                <div className="popuppdm8">Product - <span>Design</span></div>
+                <div className="popuppdm9">
+                    <h3 className="popuppdm10"> This is a Product design </h3>
+                    <p className="popuppdm11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdm12">
+                        <li>Created - <span>16 jan 2024</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
       
       
       
