@@ -1,0 +1,86 @@
+
+
+
+#Apor,
+#up {
+  padding: 80px 0;
+}
+
+/* Styles for .deals */
+.deals {
+  margin: auto;
+  width: fit-content;
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
+
+.deals h1 {
+  font-size: 70px;
+  font-weight: 500;
+  position: relative;
+  z-index: 10;
+}
+
+/* Styles for .back-textr */
+.back-textr {
+  width: max-content;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.back-textr span {
+  display: inline-block;
+  font-size: 160px;
+  font-weight: 700;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
+  -webkit-text-fill-color: transparent;
+  transform: translateY(100px);
+  opacity: 0;
+  transition: transform 1s, opacity 0.5s, -webkit-text-stroke-color 0.5s;
+  margin-right: 5px;
+}
+
+.back-textr span.active {
+  transform: translateY(0px);
+  opacity: 1;
+}
+
+/* Transitions */
+.back-textr span:nth-child(1) { transition-delay: 0.5s; }
+.back-textr span:nth-child(2) { transition-delay: 1s; }
+.back-textr span:nth-child(3) { transition-delay: 1.5s; }
+.back-textr span:nth-child(4) { transition-delay: 2s; }
+.back-textr span:nth-child(5) { transition-delay: 2.5s; }
+.back-textr span:nth-child(6) { transition-delay: 3s; }
+.back-textr span:nth-child(7) { transition-delay: 3.5s; }
+.back-textr span:nth-child(8) { transition-delay: 4s; }
+.back-textr span:nth-child(9) { transition-delay: 4.5s; }
+.back-textr:hover span { -webkit-text-stroke-color: red; }
+
+/* Additional styles for targeted-span */
+.back-textr .targeted-span { margin-right: 50px; }
+
+/* Styles for .up33 */
+.up33 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Fixed typo from 'wrsp' to 'wrap' */
+}
+
+@media screen and (max-width: 768px) {
+  .deals h1 {
+    font-size: 30px !important; /* Adjust font size for smaller screens */
+  }
+  
+  
+ 
+  .back-textr span {
+    font-size: 40px; 
+  } 
+  
+  
+  
+}
