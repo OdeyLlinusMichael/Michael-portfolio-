@@ -50,13 +50,34 @@ const Navbar = () => {
             <path fill="#ff0000" d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/>
           </svg>
         </nav>
-        <div className="txt1"><p>HI THERE!</p></div>
-        <div className="wrapper">
-          <div className="wrapper">
-            <h1>I'M <span className="auto-type"></span></h1>
-          </div>
-        </div>
-        <div className="txt2"><h1>BASE IN LAGOS, NIGERIA</h1></div>
+        <motion.div
+        className="txt1"
+        initial={{ x: -1000 }}
+        animate={{ x: 0 }}
+        transition={{ duration: 0.5 }}
+      >
+        <p>HI THERE!</p>
+      </motion.div>
+
+      <motion.div
+        className="wrapper"
+        initial={{ x: -1000 }}
+        animate={{ x: 0 }}
+        transition={{ duration: 0.5, delay: 0.2 }}
+      >
+        <h1>
+          I'M <span className="auto-type"></span>
+        </h1>
+      </motion.div>
+
+      <motion.div
+        className="txt2"
+        initial={{ x: -1000 }}
+        animate={{ x: 0 }}
+        transition={{ duration: 0.5, delay: 0.4 }}
+      >
+        <h1>BASE IN LAGOS, NIGERIA</h1>
+      </motion.div>
       </div>
     </div>
   );
