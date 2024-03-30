@@ -1,0 +1,79 @@
+#footer {
+    padding: 20px 0;
+    background-color: #191c1b; /* Dark background color */
+    color: #ffffff; /* Text color */
+    font-size: 20px; /* Increased font size */
+  }
+
+  #footer p {
+    margin-bottom: 10px;
+    font-size: 20px; /* Increased font size */
+  }
+
+  .red-text {
+    color: red; /* Text color */
+  }
+
+  #footer a {
+    color: #ffffff; /* Text color */
+    text-decoration: none;
+    font-size: 20px; /* Increased font size */
+  }
+
+  #footer a:hover {
+    text-decoration: underline;
+  }
+
+
+
+
+                         /* BACK TO TOP */
+
+html {
+	scroll-behavior: smooth;
+}
+
+.back-to-top {
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	background-color: red;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+	text-decoration: none;
+	transition: 0.2s ease-out;
+}
+
+.back-to-top span {
+	color: #fff;
+	font-size: 3rem;
+	transition: 0.2s ease-out;
+}
+
+.back-to-top:hover {
+	background-color: #ff0004;
+}
+.back-to-top:hover span {
+	transform: translateY(-4px);
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    #footer {
+        padding: 15px 0; /* Decrease padding */
+        font-size: 15px; /* Decrease font size */
+    }
+
+    #footer p {
+        font-size: 15px; /* Decrease font size */
+    }
+
+    #footer a {
+        font-size: 15px; /* Decrease font size */
+    }
+}
