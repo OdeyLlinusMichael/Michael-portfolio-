@@ -8,11 +8,11 @@ import Resume2 from './components/Resume2/Resume2';
 import Resume3 from './components/Resume3/Resume3';
 import Mywork from './components/Mywork/Mywork';
 import Mywork1 from './components/Mywork1/Mywork1';
-{/*import Services1 from './components/Services1/Services1';
+import Services1 from './components/Services1/Services1';
 import Services2 from './components/Services2/Services2';
 import Contact1 from './components/Contact1/Contact1';
 import Contact2 from './components/Contact2/Contact2';
-import Footer from './components/Footer/Footer'*/}
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -27,11 +27,11 @@ const App = () => {
       <Resume3/>
       <Mywork/>
       <Mywork1/>
-    {/*  <Services1/>
+      <Services1/>
       <Services2/>
       <Contact1/>
       <Contact2/>
-      <Footer/>*/}
+      <Footer/>
 
     </div>
     
