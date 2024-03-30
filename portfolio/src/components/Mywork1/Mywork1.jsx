@@ -316,7 +316,7 @@ const togglePopup = () => {
   
 
   
-                                       {/* popup all end */}
+                                       {/* popup ui/ux */}
   
   
   
@@ -388,6 +388,347 @@ const togglePopup = () => {
   
   
   
+
+                                     {/* popup graphics design  */}
+  
+  
+  const togglepopupgda1 = () => {
+    const popup = document.querySelector(".popupgda1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+const togglepopupgdb1 = () => {
+    const popup = document.querySelector(".popupgdb1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdc1 = () => {
+    const popup = document.querySelector(".popupgdc1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdd1 = () => {
+    const popup = document.querySelector(".popupgdd1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgde1 = () => {
+    const popup = document.querySelector(".popupgde1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdf1 = () => {
+    const popup = document.querySelector(".popupgdf1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdg1 = () => {
+    const popup = document.querySelector(".popupgdg1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdh1 = () => {
+    const popup = document.querySelector(".popupgdh1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdi1 = () => {
+    const popup = document.querySelector(".popupgdi1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdj1 = () => {
+    const popup = document.querySelector(".popupagdj1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+    const togglepopupgdk1 = () => {
+    const popup = document.querySelector(".popupgdk1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdl1 = () => {
+    const popup = document.querySelector(".popupgdl1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdm1 = () => {
+    const popup = document.querySelector(".popupgdm1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdn1 = () => {
+    const popup = document.querySelector(".popupgdn1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdo1 = () => {
+    const popup = document.querySelector(".popupgdo1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopupgdp1 = () => {
+    const popup = document.querySelector(".popupgdp1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+  
+  
+
+                                          {/* popup product design */}
+  
+  
+
+ 
+
+
+
+const togglepopuppda1 = () => {
+    const popup = document.querySelector(".popuppda1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+
+  const togglepopuppdb1 = () => {
+    const popup = document.querySelector(".popuppdb1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdc1 = () => {
+    const popup = document.querySelector(".popuppdc1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdd1 = () => {
+    const popup = document.querySelector(".popuppdd1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+
+  const togglepopuppde1 = () => {
+    const popup = document.querySelector(".popuppde1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdf1 = () => {
+    const popup = document.querySelector(".popuppdf1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdg1 = () => {
+    const popup = document.querySelector(".popuppdg1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdh1 = () => {
+    const popup = document.querySelector(".popuppdh1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdi1 = () => {
+    const popup = document.querySelector(".popuppdi1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdj1 = () => {
+    const popup = document.querySelector(".popuppdj1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdk1 = () => {
+    const popup = document.querySelector(".popuppdk1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdl1 = () => {
+    const popup = document.querySelector(".popuppdl1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+  const togglepopuppdm1 = () => {
+    const popup = document.querySelector(".popuppdm1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+ 
+
+
+
+
+
+
   
   
   
@@ -681,7 +1022,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Ux/Ui Design</h3>
                 <p>That is a Ux/Ui Design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupuif1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupuif1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -709,7 +1050,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgda1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -718,7 +1059,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdd1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>  
               </div>
             </div>
             
@@ -727,7 +1068,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdg1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -736,7 +1077,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdj1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -745,7 +1086,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdm1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -758,7 +1099,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdb1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -767,7 +1108,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgde1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -776,7 +1117,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdh1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -785,7 +1126,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdk1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -794,7 +1135,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdn1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -807,7 +1148,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdc1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -816,7 +1157,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdf1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -825,7 +1166,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdi1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -834,7 +1175,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdl1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -843,7 +1184,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdo1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -852,7 +1193,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdp1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -880,7 +1221,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppda1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -889,7 +1230,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdd1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -898,7 +1239,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdg1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -907,7 +1248,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdj1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -921,7 +1262,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdb1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -930,7 +1271,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppde1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -939,7 +1280,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdh1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -948,7 +1289,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdk1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -962,7 +1303,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdc1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a> 
               </div>
             </div>
             
@@ -971,7 +1312,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdf1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -980,7 +1321,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdi1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -989,7 +1330,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdl1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -998,7 +1339,7 @@ const togglePopup = () => {
               <div className="porp6000">
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
-                <a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdm1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -1010,7 +1351,7 @@ const togglePopup = () => {
       
       
       
-              {/* ---------------       pop-up￼                  --------------------*/}.              
+              {/* ---------------       pop-up                  --------------------*/}.              
       
       
       
@@ -1633,7 +1974,7 @@ const togglePopup = () => {
 
 
 
-                                       {/* popup all end */}
+                                       {/* popup UI/UX */}
 
 
 
@@ -1811,7 +2152,6 @@ const togglePopup = () => {
       
       
       
-            
                                             {/* popup UI/UX */}
       
       
@@ -2626,10 +2966,6 @@ const togglePopup = () => {
 
 
 
-      
-      
-      
-      
     </div>
     
     
@@ -2645,14 +2981,6 @@ const togglePopup = () => {
 };
 
 export default Mywork1;
-
-
-
-
-
-
-
-
 
 
 
