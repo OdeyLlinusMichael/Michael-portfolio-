@@ -25,10 +25,15 @@ const [isVisible, setIsVisible] = useState(false);
             <main className="rowx">
                 {/* ******* Education Section Starts ******* */}
                 <section className="colx">
-                    <header className="titlex">
-                        <h2>EDUCATION</h2>
-                    </header>
-                    <div className="contentsx">
+                    <header className="titlex"> <h2>EDUCATION</h2> </header>
+                    
+                    <motion.div 
+                        className="contentsx" 
+                        initial={{ y: 200 }} 
+                        animate={{ y: isVisible ? 10 : 200 }} 
+                        transition={{ duration: 1 }} 
+                        ref={ref}
+                    >
                         <div className="boxx">
                             <h4>Dec. 2023</h4>
                             <h3>Udemy.Inc</h3>
@@ -59,7 +64,7 @@ const [isVisible, setIsVisible] = useState(false);
                             <p>Primary School Leaving Certificate</p>
                             <p>During my primary school years, I began cultivating a curiosity for learning and laying the foundation for my future endeavors.</p>
                         </div>
-                    </div>
+                    </motion.div>
                 </section>
                 {/* ******* Education Section Ends ******* */}
 
