@@ -62,6 +62,7 @@ const Contact2 = () => {
         </form>
       </div>
     </div>
+    </motion.div>
   </div>
   {/* Pop-up message */}
   {sent && <div className="popup-message">Message Sent!</div>}

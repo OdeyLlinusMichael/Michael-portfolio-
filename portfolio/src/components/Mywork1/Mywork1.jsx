@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useEffect, useRef, useState } from 'react';
+import { motion } from "framer-motion";
 import all1 from '../../assets/all1.png';
 import all2 from '../../assets/all2.png';
 import all3 from '../../assets/all3.png';
@@ -77,7 +78,19 @@ const Mywork1 = () => {
   };
   
   
-  
+  const [isVisible, setIsVisible] = useState(false);
+    const ref = useRef(null);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (!isVisible && ref.current.getBoundingClientRect().top < window.innerHeight * 0.75) {
+                setIsVisible(true);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
   
 
 
@@ -735,6 +748,12 @@ const togglepopuppda1 = () => {
   
   return (
     <div>
+    <motion.div
+      initial={{ opacity: 0, y: 300 }} 
+      animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
+      transition={{ duration: 1 }}
+      ref={ref}
+    >
       <div className="md2">
         <p className="md3 m-m" onClick={(event) => opentab('All', event)}>All</p>
         <p className="md3" onClick={(event) => opentab('Ux/Ui Design', event)}>Ux/Ui Design</p>
@@ -2965,7 +2984,7 @@ const togglepopuppda1 = () => {
 </div>
 
 
-
+    </motion.div>          
     </div>
     
     
