@@ -78,10 +78,25 @@ const Resume2 = () => {
 
                 {/* ******* Experience Section Starts ******* */}
                 <section className="colx">
-                    <header className="titlex">
+                    <motion.header 
+                     className="titlex" 
+                     initial={{ opacity: 0, y: 200 }} 
+                     animate={{ opacity: 1, y: -0 }} 
+                     transition={{ duration: 1 }}
+                     // Add conditionally applied animation
+                     animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
+                    >
                         <h2>EXPERIENCE</h2>
-                    </header>
-                    <div className="contentsx">
+                    </motion.header>
+                    <motion.div 
+                        className="contentsx" 
+                        initial={{ opacity: 0, y: 200 }} 
+                        animate={{ opacity: 1, y: -0 }} 
+                        transition={{ duration: 1 }}
+                       // Add conditionally applied animation
+                       animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
+                        ref={ref}
+                    >
                         <div className="boxx">
                             <h4>2021 - till date</h4>
                             <h3>Interior Product designer at Lyn’s Decor</h3>
@@ -97,7 +112,7 @@ const Resume2 = () => {
                             <h3>Graphics designer at Achievers LLc</h3>
                             <p>As a Graphics Designer at Achievers LLC, I was responsible for creating visually compelling designs for various marketing materials and digital platforms. My role involved conceptualizing and executing innovative design solutions that effectively communicated the company's brand identity and messaging to target audiences.</p>
                         </div>
-                    </div>
+                    </motion.div>
                 </section>
                 {/* ******* Experience Section Ends ******* */}
             </main>
