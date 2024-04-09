@@ -46,7 +46,7 @@ const About3 = () => {
                             <p className="mb-0">Projects Done</p>
                         </div>
                     </div>
-                </div>
+                </motion.div>
             </div>
         </section>
     );
