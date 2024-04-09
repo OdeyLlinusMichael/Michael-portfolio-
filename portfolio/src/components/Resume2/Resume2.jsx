@@ -6,6 +6,20 @@ import './Resume2.css';
 
 
 const Resume2 = () => {
+const [isVisible, setIsVisible] = useState(false);
+    const ref = useRef(null);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (!isVisible && ref.current.getBoundingClientRect().top < window.innerHeight * 0.75) {
+                setIsVisible(true);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, [isVisible]);
+    
     return (
         <div className="containerx">
             <main className="rowx">
