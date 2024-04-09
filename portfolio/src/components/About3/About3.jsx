@@ -3,6 +3,22 @@ import './About3.css';
 
 
 const About3 = () => {
+    const [isVisible, setIsVisible] = useState(false);
+    const ref = useRef(null);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (!isVisible && ref.current.getBoundingClientRect().top < window.innerHeight * 0.75) {
+                setIsVisible(true);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, [isVisible]);
+
+
+    
     return (
         <section className="runa">
             <div className="brands-grid separator-border mt-5">
