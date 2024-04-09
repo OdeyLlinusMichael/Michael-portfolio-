@@ -24,11 +24,9 @@ const Resume2 = () => {
                 <section className="colx">
                 <motion.header 
                   className="titlex" 
-                  initial={{ opacity: 0, y: 200 }} 
-                  animate={{ opacity: 1, y: -0 }} 
+                  initial={{ opacity: 0, y: 300 }} 
+                  animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
                   transition={{ duration: 1 }}
-                  // Add conditionally applied animation
-                  animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
                 >
                    <h2>EDUCATION</h2>
                 </motion.header>
@@ -36,10 +34,8 @@ const Resume2 = () => {
                     <motion.div 
                         className="contentsx" 
                         initial={{ opacity: 0, y: 200 }} 
-                        animate={{ opacity: 1, y: -0 }} 
+                        animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
                         transition={{ duration: 1 }}
-                       // Add conditionally applied animation
-                       animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
                         ref={ref}
                     >
                         <div className="boxx">
@@ -81,20 +77,16 @@ const Resume2 = () => {
                     <motion.header 
                      className="titlex" 
                      initial={{ opacity: 0, y: 200 }} 
-                     animate={{ opacity: 1, y: -0 }} 
+                     animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
                      transition={{ duration: 1 }}
-                     // Add conditionally applied animation
-                     animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
                     >
                         <h2>EXPERIENCE</h2>
                     </motion.header>
                     <motion.div 
                         className="contentsx" 
                         initial={{ opacity: 0, y: 200 }} 
-                        animate={{ opacity: 1, y: -0 }} 
+                        animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
                         transition={{ duration: 1 }}
-                       // Add conditionally applied animation
-                       animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
                         ref={ref}
                     >
                         <div className="boxx">

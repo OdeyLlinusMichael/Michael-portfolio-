@@ -42,7 +42,6 @@ const About2 = () => {
                     transition={{ duration: 1 }} 
                     ref={ref}
                 >
-                </motion.div>
                     <div className="ps-lg-4">
                         <ul className="list-style-2">
                             <li>Name:<span className="fw-600 me-2">Odey Linus Michael</span></li>
