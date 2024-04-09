@@ -1,12 +1,33 @@
+import React, { useEffect, useRef, useState } from 'react';
+import { motion } from "framer-motion";
 import './Resume3.css';
-import React from 'react';
 
 
 
 const Skills = () => {
+  const [isVisible, setIsVisible] = useState(false);
+    const ref = useRef(null);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (!isVisible && ref.current.getBoundingClientRect().top < window.innerHeight * 0.75) {
+                setIsVisible(true);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
+    
   return (
     <div>
-      <h2 className="title additional-class">My Skills</h2>
+      <motion.div 
+       initial={{ opacity: 0, y: 300 }} 
+       animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
+       transition={{ duration: 1 }}
+       ref={ref}
+      >
+      <h2 className="title additional-class"> My Skill </h2>
       <div className="skills-container additional-class">
         <div className="left-skills">
           <div className="skill-group additional-class">
@@ -33,7 +54,7 @@ const Skills = () => {
           </div>
           {/* stop */}
         </div>
-        <div className="right-skills">
+        <div className="right-skills">    
           <div className="skill-group additional-class">
             <p className="skill additional-class">HTML/CSS <span className="skill-level additional-class">70%</span></p>
             <div className="progress-bar-container additional-class">
@@ -59,6 +80,7 @@ const Skills = () => {
           {/* Add other right-aligned skills here */}
         </div>
       </div>
+      </motion.div>
     </div>
   );
 }

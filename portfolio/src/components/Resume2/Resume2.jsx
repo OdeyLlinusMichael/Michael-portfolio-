@@ -25,7 +25,7 @@ const Resume2 = () => {
                 <motion.header 
                   className="titlex" 
                   initial={{ opacity: 0, y: 300 }} 
-                  animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
+                  animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
                   transition={{ duration: 1 }}
                 >
                    <h2>EDUCATION</h2>
@@ -34,7 +34,7 @@ const Resume2 = () => {
                     <motion.div 
                         className="contentsx" 
                         initial={{ opacity: 0, y: 200 }} 
-                        animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
+                        animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
                         transition={{ duration: 1 }}
                         ref={ref}
                     >
@@ -77,7 +77,7 @@ const Resume2 = () => {
                     <motion.header 
                      className="titlex" 
                      initial={{ opacity: 0, y: 200 }} 
-                     animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
+                     animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
                      transition={{ duration: 1 }}
                     >
                         <h2>EXPERIENCE</h2>
@@ -85,7 +85,7 @@ const Resume2 = () => {
                     <motion.div 
                         className="contentsx" 
                         initial={{ opacity: 0, y: 200 }} 
-                        animate={{ opacity: isVisible ? 1 : -0, y: isVisible ? 0 : 50 }} 
+                        animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
                         transition={{ duration: 1 }}
                         ref={ref}
                     >
