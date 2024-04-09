@@ -35,9 +35,11 @@ const Resume2 = () => {
                     
                     <motion.div 
                         className="contentsx" 
-                        initial={{ y: 200 }} 
-                        animate={{ y: isVisible ? 10 : 200 }} 
-                        transition={{ duration: 1 }} 
+                        initial={{ opacity: 0, y: 200 }} 
+                        animate={{ opacity: 1, y: -0 }} 
+                        transition={{ duration: 1 }}
+                       // Add conditionally applied animation
+                       animate={isVisible ? { opacity: 1, y: -0 } : { opacity: 0, y: 50 }}
                         ref={ref}
                     >
                         <div className="boxx">
