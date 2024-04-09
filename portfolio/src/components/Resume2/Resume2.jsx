@@ -2,11 +2,8 @@ import React, { useEffect, useRef, useState } from 'react';
 import { motion } from "framer-motion";
 import './Resume2.css';
 
-
-
-
 const Resume2 = () => {
-const [isVisible, setIsVisible] = useState(false);
+    const [isVisible, setIsVisible] = useState(false);
     const ref = useRef(null);
 
     useEffect(() => {
@@ -18,8 +15,8 @@ const [isVisible, setIsVisible] = useState(false);
 
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
-    }, [isVisible]);
-    
+    }, []);
+
     return (
         <div className="containerx">
             <main className="rowx">
