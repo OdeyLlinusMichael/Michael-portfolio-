@@ -34,7 +34,7 @@ const Contact2 = () => {
         <p className="text-5 mb-5">I enjoy discussing new projects and design challenges. Please share as much info, as possible so we can get the most out of our first catch-up.</p>
         <h3 className="text-5 fw-600">Living In:</h3>
         <address className="text-4">
-          11b Olatunji Moore Street by Lagos Nigeria
+          11b Olatunji Moore Street by marwa Lekki Lagos,Nigeria
         </address>
         <h3 className="text-5 fw-600">Call:</h3>
         <p className="text-4">(+234) 8105832126</p>
