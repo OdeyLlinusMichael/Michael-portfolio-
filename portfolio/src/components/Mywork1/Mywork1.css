@@ -594,6 +594,7 @@
   transition: 0.3s;
 }
 
+
 .popupuia1.open,
 .popupuib1.open,
 .popupuic1.open,
@@ -611,10 +612,11 @@
 .popupuie2,
 .popupuif2 {
   background-color: #3A3B3C;
-  width: 1200px;
   border-radius: 8px;
-  padding: 40px;
   position: relative;
+  max-width: 100%; 
+  width: 90%; /* width: 1200px; padding: 40px; */
+  padding: 20px;
 }
 
 .popupuia3,
@@ -653,6 +655,36 @@
   height: 60px;
 }
 
+
+
+
+
+.popupuia5,
+.popupuib5,
+.popupuic5,
+.popupuid5,
+.popupuie5,
+.popupuif5 {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+  height: 700px; /* Set a fixed height for the container */
+} 
+
+
+.popupuia6,
+.popupuib6,
+.popupuic6,
+.popupuid6,
+.popupuie6,
+.popupuif6 {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  max-height: 100%; /* Ensure the image doesn't exceed its container */
+  width: auto; /* Allow the image to adjust its auto */
+  height: auto; /* Allow the image to adjust its height */
+}
+
+
 .popupuia8,
 .popupuia11,
 .popupuib8,
@@ -670,6 +702,7 @@
   font-weight: 500;
 }
 
+
 .popupuia10,
 .popupuib10,
 .popupuic10,
@@ -680,6 +713,8 @@
   font-weight: 500;
   margin-bottom: 20px;
 }
+
+
 
 .popupuia12 li,
 .popupuib12 li,
@@ -692,6 +727,7 @@
   text-transform: capitalize;
   list-style: none;
 }
+
 
 .popupuia12 li:last-child,
 .popupuib12 li:last-child,
@@ -797,11 +833,12 @@
 .popupgdn2, 
 .popupgdo2,
 .popupgdp2 {
-  background-color: #3A3B3C; 
-  width: 1200px;
+  background-color: #3A3B3C;
   border-radius: 8px;
-  padding: 40px;
   position: relative;
+  max-width: 100%; 
+  width: 90%; /* width: 1200px; padding: 40px; */
+  padding: 20px;
 }
 
 .popupgda3,
@@ -869,6 +906,52 @@
   width: 20px;
   height: 60px;
 }
+
+.popupgda5,
+.popupgdb5,
+.popupgdc5,
+.popupgdd5,
+.popupgde5,
+.popupgdf5,
+.popupgdg5,
+.popupgdh5,
+.popupgdi5,
+.popupgdj5,
+.popupgdk5,
+.popupgdl5,
+.popupgdm5,
+.popupgdn5,
+.popupgdo5,
+.popupgdp5 {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+  height: 700px; /* Set a fixed height for the container */
+} 
+
+
+.popupgda6,
+.popupgdb6,
+.popupgdc6,
+.popupgdd6,
+.popupgde6,
+.popupgdf6,
+.popupgdg6,
+.popupgdh6,
+.popupgdi6,
+.popupgdj6,
+.popupgdk6,
+.popupgdl6,
+.popupgdm6,
+.popupgdn6,
+.popupgdo6,
+.popupgdp6 {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  max-height: 100%; /* Ensure the image doesn't exceed its container */
+  width: auto; /* Allow the image to adjust its auto */
+  height: auto; /* Allow the image to adjust its height */
+}
+
 
 .popupgda8,
 .popupgdb8,
@@ -1074,11 +1157,12 @@
 .popuppdk2, 
 .popuppdl2,
 .popuppdm2 {
-  background-color: #3A3B3C; 
-  width: 1200px;
+  background-color: #3A3B3C;
   border-radius: 8px;
-  padding: 40px;
   position: relative;
+  max-width: 100%; 
+  width: 90%; /* width: 1200px; padding: 40px; */
+  padding: 20px;
 }
 
 .popuppda3, 
@@ -1138,6 +1222,44 @@
   height: 60px;
 }
 
+.popuppda5, 
+.popuppdb5,
+.popuppdc5, 
+.popuppdd5,
+.popuppde5, 
+.popuppdf5,
+.popuppdg5, 
+.popuppdh5,
+.popuppdi5, 
+.popuppdj5,
+.popuppdk5, 
+.popuppdl5,
+.popuppdm5 {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+  height: 700px; /* Set a fixed height for the container */
+}
+
+.popuppda6, 
+.popuppdb6,
+.popuppdc6, 
+.popuppdd6,
+.popuppde6, 
+.popuppdf6,
+.popuppdg6, 
+.popuppdh6,
+.popuppdi6, 
+.popuppdj6,
+.popuppdk6, 
+.popuppdl6,
+.popuppdm6 {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  max-height: 100%; /* Ensure the image doesn't exceed its container */
+  width: auto; /* Allow the image to adjust its auto */
+  height: auto; /* Allow the image to adjust its height */
+}
+
 .popuppda8, 
 .popuppdb8,
 .popuppdc8, 
@@ -1150,7 +1272,20 @@
 .popuppdj8,
 .popuppdk8, 
 .popuppdl8,
-.popuppdm8 {
+.popuppdm8,
+.popuppda11, 
+.popuppdb11,
+.popuppdc11, 
+.popuppdd11,
+.popuppde11, 
+.popuppdf11,
+.popuppdg11, 
+.popuppdh11,
+.popuppdi11, 
+.popuppdj11,
+.popuppdk11, 
+.popuppdl11,
+.popuppdm11{
   font-size: 20px;
   margin-bottom: 20px;
   font-weight: 500;
@@ -1558,6 +1693,8 @@
 .popupaq12 a,
 .popupar12 a,
 .popupas12 a {
+  text-align: center;
+  font-size: 9px; 
   color: #ff0000;
   text-transform: lowercase; /* Corrected placement */
 }
@@ -1565,7 +1702,7 @@
   
                      /* ------------------popup ui/ux-------------------- */
  
- 
+ /* Adjusted width and padding for smaller screens */
 .popupuia2,
 .popupuib2,
 .popupuic2,
@@ -1573,12 +1710,11 @@
 .popupuie2,
 .popupuif2 {
   max-width: 100%; 
-  width: 90%; /* Adjusted width for smaller screens */
-  padding: 20px; /* Reduced padding for smaller screens */
+  width: 90%;
+  padding: 20px;
 }
 
-
-
+/* Display in a single column on smaller screens */
 .popupuia3,
 .popupuib3,
 .popupuic3,
@@ -1586,94 +1722,92 @@
 .popupuie3,
 .popupuif3 {
   display: flex;
-  flex-direction: column; /* Display in a single column on smaller screens */
-  align-items: center; /* Center items on smaller screens */
+  flex-direction: column;
+  align-items: center;
 }
 
+/* Adjusted top and right positions for smaller screens */
 .popupuia4,
 .popupuib4,
 .popupuic4,
 .popupuid4,
 .popupuie4,
-.popupuif4   {
-  top: 1rem; /* Adjusted top position for smaller screens */
-  right: 1rem; /* Adjusted right position for smaller screens */
+.popupuif4 {
+  top: 1rem;
+  right: 1rem;
 }
 
-
-
-
+/* Center the image horizontally and vertically */
 .popupuia5,
 .popupuib5,
 .popupuic5,
 .popupuid5,
 .popupuie5,
-.popupuif5  {
+.popupuif5 {
   display: flex;
-  justify-content: center; /* Center the image horizontally */
-  align-items: center; /* Center the image vertically */
-  height: 200px; /* Set a fixed height for the container */
+  justify-content: center;
+  align-items: center;
+  height: 200px;
 } 
 
+/* Ensure the image doesn't exceed its container */
 .popupuia6,
 .popupuib6,
 .popupuic6,
 .popupuid6,
 .popupuie6,
 .popupuif6 {
-  max-width: 100%; /* Ensure the image doesn't exceed its container */
-  max-height: 100%; /* Ensure the image doesn't exceed its container */
-  width: auto; /* Allow the image to adjust its auto */
-  height: auto; /* Allow the image to adjust its height */
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
 }
 
-
-
+/* Decreased font size and centered text on smaller screens */
 .popupuia8,
 .popupuib8,
 .popupuic8,
 .popupuid8,
 .popupuie8,
 .popupuif8,
+.popupuia10,
+.popupuib10,
+.popupuic10,
+.popupuid10,
+.popupuie10,
+.popupuif10,
 .popupuia11,
 .popupuib11,
 .popupuic11,
 .popupuid11,
 .popupuie11,
 .popupuif11 {
-  font-size: 11px; /* Decreased font size for smaller screens */
-  text-align: center; /* Center text on smaller screens */
+  font-size: 11px;
+  text-align: center;
 }
 
-.popupuia10,
-.popupuib10,
-.popupuic10,
-.popupuid10,
-.popupuie10,
-.popupuif10 {
-  font-size: 15px; /* Decreased font size for smaller screens */
-  text-align: center; /* Center text on smaller screens */
-}
-
+/* Decreased font size for list items on smaller screens */
 .popupuia12 li,
 .popupuib12 li,
 .popupuic12 li,
 .popupuid12 li,
 .popupuie12 li,
 .popupuif12 li {
-  font-size: 11px; /* Decreased font size for smaller screens */
+  font-size: 11px;
 }
 
+/* Corrected color and text transformation for links */
 .popupuia12 a,
 .popupuib12 a,
 .popupuic12 a,
 .popupuid12 a,
 .popupuie12 a,
 .popupuif12 a {
+  text-align: center;
+  font-size: 9px; 
   color: #ff0000;
   text-transform: lowercase; /* Corrected placement */
 }
-
 
                     /* ------------------popup graphics design -------------------- */
 
@@ -1884,6 +2018,8 @@
 .popupgdn12 a,
 .popupgdo12 a,
 .popupgdp12 a {
+  text-align: center;
+  font-size: 9px; 
   color: #ff0000;
   text-transform: lowercase; /* Corrected placement */
 }
