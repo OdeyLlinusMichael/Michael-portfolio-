@@ -1,4 +1,3 @@
-
 .row {
  width: 100%;
  max-width: 100%;
@@ -52,21 +51,32 @@
     }
     
     
-    /* For screens smaller than 768px */
-@media (max-width: 768px) {
-  .row {
-    flex-direction: column; /* Stack items vertically */
-    padding: 20px 0; /* Decrease top and bottom padding */
-  }
-  
-  .featured-box,
-  .featured-box2 {
-    border-right: none; /* Remove border */
-    padding-right: 0; /* Remove padding */
-    margin-bottom: 20px; /* Add space between items */
-  }
-  
-  .text-12 {
-    font-size: 30px; /* Decrease font size */
-  }
+
+
+
+@media screen and (max-width: 1200px) {
+    .row {
+        flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+    }
+
+    .featured-box {
+        padding-right: 20px; /* Adjust padding for smaller screens */
+        margin-bottom: 20px; /* Add margin to separate boxes on smaller screens */
+    }
+
+    .text-12 {
+        font-size: 24px; /* Adjust font size for smaller screens */
+    }
+
+    .featured-box p {
+        font-size: 16px; /* Decrease text size for smaller screens */
+    }
+
+    .featured-box2 {
+        margin-bottom: 20px; /* Add margin to separate boxes on smaller screens */
+    }
+
+    .featured-box2 p {
+        font-size: 16px; /* Decrease text size for smaller screens */
+    }
 }
