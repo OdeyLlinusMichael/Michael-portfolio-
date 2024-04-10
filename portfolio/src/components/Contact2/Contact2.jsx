@@ -1,9 +1,24 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
+import { motion } from "framer-motion";
 import './Contact2.css';
 import emailjs from 'emailjs-com';
 
 const Contact2 = () => {
   const [sent, setSent] = useState(false);
+
+  const [isVisible, setIsVisible] = useState(false);
+    const ref = useRef(null);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (!isVisible && ref.current.getBoundingClientRect().top < window.innerHeight * 0.75) {
+                setIsVisible(true);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -28,6 +43,12 @@ const Contact2 = () => {
     
     <section id="contact" className="section bg-primary">
   <div className="container5">
+  <motion.div 
+       initial={{ opacity: 0, y: 300 }} 
+       animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
+       transition={{ duration: 1 }}
+       ref={ref}
+  >
     <div className="row">
       <div className="col-lg-q text-center text-lg-start">
         <h2 className="text-10 fw-600 mb-5">Let's get in touch</h2>
