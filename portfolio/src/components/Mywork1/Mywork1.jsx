@@ -1426,7 +1426,7 @@ const togglepopuppda1 = () => {
                   <li>Created - <span>29 feb 2024</span></li>
                   <li>Technology - <span>figma</span></li>
                   <li>Role - <span>wed Design</span></li>
-                  <li>URL - <span><a href="#">https://my-portfolio-c5eb9.web.app</a></span></li>
+                  <li>URL - <span><a href="https://my-portfolio-c5eb9.web.app/">https://my-portfolio-c5eb9.web.app</a></span></li>
                 </ul>
               </div>
             </div>
@@ -1454,7 +1454,7 @@ const togglepopuppda1 = () => {
                            <li>Created - <span>9 oct 2023</span></li>
                            <li>Technology - <span>figma</span></li>
                            <li>Role - <span>Mobile app Design</span></li>
-                           <li>URL - <span><a href="#">https://www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255</a></span></li>
+                           <li>URL - <span><a href="https://www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255">https://www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255</a></span></li>
                       </ul>
                    </div>
                 </div>
@@ -1574,7 +1574,7 @@ const togglepopuppda1 = () => {
                         <li>Created - <span>14 Dec 2023</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>wed Design</span></li>
-                        <li>URL - <span><a href="#">https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=38-3523&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=38%3A3523</a></span></li>
+                        <li>URL - <span><a href="https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=38-3523&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=38%3A3523">https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=38-3523&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=38%3A3523</a></span></li>
                     </ul>
                 </div>
             </div>
@@ -2015,7 +2015,7 @@ const togglepopuppda1 = () => {
                         <li>Created - <span>14 Dec 2023</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>wed Design</span></li>
-                        <li>URL - <span><a href="#">https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=38-3523&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=38%3A3523</a></span></li>
+                        <li>URL - <span><a href="https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=38-3523&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=38%3A3523">https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=38-3523&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=38%3A3523</a></span></li>
                     </ul>
                 </div>
             </div>
@@ -2044,7 +2044,7 @@ const togglepopuppda1 = () => {
                         <li>Created - <span>1 Mar 2024</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>wed Design</span></li>
-                        <li>URL - <span><a href="#">https://my-portfolio-c5eb9.web.app</a></span></li>
+                        <li>URL - <span><a href="https://my-portfolio-c5eb9.web.app/">https://my-portfolio-c5eb9.web.app</a></span></li>
                     </ul>
                 </div>
             </div>
@@ -2072,7 +2072,7 @@ const togglepopuppda1 = () => {
                         <li>Created - <span>1 Mar 2024</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>wed Design</span></li>
-                        <li>URL - <span><a href="#">https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2</a></span></li>
+                        <li>URL - <span><a href="https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2">https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2</a></span></li>
                     </ul>
                 </div>
             </div>
@@ -2129,7 +2129,7 @@ const togglepopuppda1 = () => {
                         <li>Created - <span>20 Nov 2024</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>app Design</span></li>
-                        <li>URL - <span><a href="#">https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=3-2&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2</a></span></li>
+                        <li>URL - <span><a href="https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=3-2&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2">https://www.figma.com/proto/vw2I75oaFWYXTkcvRrCM1T/TrustGuard-Bank-app?type=design&node-id=3-2&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2</a></span></li>
                     </ul>
                 </div>
             </div>
@@ -2157,7 +2157,7 @@ const togglepopuppda1 = () => {
                         <li>Created - <span>17 Dec 2023</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>app Design</span></li>
-                        <li>URL - <span><a href="#">https://www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255</a></span></li>
+                        <li>URL - <span><a href="www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255">https://www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255</a></span></li>
                     </ul>
                 </div>
             </div>
