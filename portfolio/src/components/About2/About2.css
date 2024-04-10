@@ -6,7 +6,7 @@
 
 .row-gy-5 {
     width: 90%;
-    max-width: 1200px;
+    max-width: 11200px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -20,30 +20,7 @@
     margin: 0 auto;
 }
 
-@media (max-width: 768px) {
-    .row-gy-5 {
-        flex-direction: column;
-        gap: 30px;
-        padding: 40px 5px; /* Adjust padding for smaller screens */
-    }
-    
-    .col-lg-7 {
-        width: 90%;
-        max-width: 90%;
-    }
 
-    .col-lg-7 h2 {
-        font-size: 25px; /* Adjust font size for smaller screens */
-    }
-
-    .list-style-2 li span {
-        font-size: 30px; /* Adjust font size for smaller screens */
-    }
-
-    .btn-primary {
-        font-size: 15px; /* Adjust font size for smaller screens */
-    }
-}
 
 .ps-lg-4 ul {
     list-style: none;
@@ -54,6 +31,7 @@
 .list-style-2 li {
     font-size: 20px;
     text-decoration: none;
+    
 }
 
 a.btn.btn-primary.rounded-pill {
@@ -68,11 +46,13 @@ h2.text-7 .text-primary {
 .list-style-2 li:nth-child(1) span {
     font-size: 15px;
     padding-left: 10px;
+
 }
 
 .list-style-2 li:nth-child(1) {
     padding-bottom: 10px;
     border-bottom: 1px solid #D5D8DC; 
+
 }
 
 .list-style-2 li:nth-child(2) span {
@@ -107,6 +87,8 @@ h2.text-7 .text-primary {
     padding-bottom: 10px;
     margin-top: 10px;
     border-bottom: 1px solid #D5D8DC; 
+    
+    
 }
 
 .btn-primary {
@@ -131,3 +113,43 @@ h2.text-7 .text-primary {
 }
 
 
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .runa {
+        padding: 10px 0;
+    }
+
+    .row-gy-5 {
+        flex-direction: column;
+        padding: 40px 0;
+        align-items: initial;
+    }
+
+
+
+
+    .col-lg-7 {
+        width: 100%;
+        max-width: none;
+    }
+
+    .list-style-2 li {
+        font-size: 16px;
+        padding-bottom: 8px;
+        margin-top: 8px;
+    }
+
+    a.btn.btn-primary.rounded-pill {
+        top: 0;
+    }
+
+    .list-style-2 li:nth-child(1) span,
+    .list-style-2 li:nth-child(2) span,
+    .list-style-2 li:nth-child(3) span,
+    .list-style-2 li:nth-child(4) span {
+        font-size: 14px;
+    }
+
+    
+}
