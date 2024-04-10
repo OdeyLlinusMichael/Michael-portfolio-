@@ -88,44 +88,16 @@
 
 
 
+ 
+  @media (max-width: 768px) {
+  .k2 {
+    grid-template-columns: 1fr; /* Stack elements vertically */
+    margin: 10px 0px 0px 25px; /* top right bottom left */
+  }
 
-@media screen and (max-width: 768px) {
-    #serq2 {
-        padding: 20px 0;
-    }
-
-    .k2 {
-        margin: 10px;
-    }
-
-    .k3 {
-     height: 260px;
-     width: 270px;
-      background-color: #191c1b;
-    padding: 3% 8%;
-    border: 2px solid rgba(83, 74, 74, 0.84);
-    border-radius: 8px;
-    transition: .6s;
-    display: flex;
-    align-items: center;
-     flex-direction: column; 
-    position: relative;
-    overflow: hidden;
-    }
-
-    .k3 svg {
-        font-size: 1.5rem;
-        margin-top: 3px;
-        margin-bottom: 3px;
-    }
-
-    .k3 h2 {
-        font-size: 12px;
-        letter-spacing: 0.3px;
-    }
-
-    .k3 p {
-     font-size: 12px;
-        margin: 4px 0;
-    }
+  .k3 {
+    width: calc(100% - 20px); /* Take full width minus margin */
+    height: auto; /* Adjust height automatically */
+    margin-bottom: 20px; /* Add some space between cards */
+  }
 }
