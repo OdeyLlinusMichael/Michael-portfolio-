@@ -89,7 +89,7 @@
 
 
  
-  @media (max-width: 768px) {
+  @media (max-width: 900px) {
   .k2 {
     grid-template-columns: 1fr; /* Stack elements vertically */
     margin: 10px 0px 0px 25px; /* top right bottom left */
