@@ -2000,7 +2000,7 @@ const togglepopuppda1 = () => {
 
 
 
-      <div className="popupuia1">
+     <div className="popupuia1">
     <div className="popupuia2">
         <div className="popupuia3">
             <span className="popupuia4" onClick={togglepopupuia1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
@@ -2010,7 +2010,7 @@ const togglepopuppda1 = () => {
                 <div className="popupuia8">UI/UX - <span>Design</span></div>
                 <div className="popupuia9">
                     <h3 className="popupuia10"> This is a wed Design</h3>
-                   <p className="popupuia11">This UI/UX design for Liberty Safe Banking redefines the digital banking experience with security and convenience at its core. Seamlessly blending sleek aesthetics with intuitive functionality, the design ensures users feel confident and empowered while managing their finances online. From seamless account navigation to robust security features, every element is meticulously crafted to prioritize user privacy and ease of use. With a clean and modern interface, users can effortlessly access their accounts, transfer funds, and monitor transactions with peace of mind. This design not only reflects Liberty Safe’s commitment to safeguarding users’ financial assets but also elevates the overall banking experience, setting a new standard for digital banking security and usability.</p>
+                   <p className="popupuia11">The UI/UX design for Liberty Safe Banking prioritizes security and convenience, offering users a sleek interface and intuitive functionality. With a focus on user privacy and ease of use, the design ensures confident financial management online. It combines modern aesthetics with robust security features, setting a new standard for digital banking excellence.</p>
                     <ul className="popupuia12">
                         <li>Created - <span>14 Dec 2023</span></li>
                         <li>Technology - <span>figma</span></li>
@@ -2029,18 +2029,18 @@ const togglepopuppda1 = () => {
 
 
 
-<div class="popupuib1">
-    <div class="popupuib2">
-        <div class="popupuib3">
+<div className="popupuib1">
+    <div className="popupuib2">
+        <div className="popupuib3">
             <span className="popupuib4" onClick={togglepopupuib1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
                 <div className="popupuib5"><img src={ui2} alt="" className="popupuib6" /></div>
             
-            <div class="popupuib7">
-                <div class="popupuib8">UI/UX - <span>Design</span></div>
-                <div class="popupuib9">
-                    <h3 class="popupuib10"> This is a wed Design</h3>
-                   <p class="popupuib11">This UI/UX design portfolio website showcases a collection of meticulously crafted digital experiences, each one a testament to creativity, innovation, and user-centric design. With its clean layout, intuitive navigation, and visually stunning presentation, it offers visitors a glimpse into the designer’s skillset and expertise. From interactive case studies to in-depth project descriptions, every aspect of the portfolio is thoughtfully curated to engage and inspire potential clients and collaborators. Whether exploring past projects, learning about design processes, or reaching out for collaboration opportunities, this website provides a seamless and immersive user experience. With its emphasis on usability and aesthetics, it not only highlights the designer’s talent but also serves as a powerful tool for attracting new opportunities and fostering meaningful connections within the design community.</p>
-                    <ul class="popupuib12">
+            <div className="popupuib7">
+                <div className="popupuib8">UI/UX - <span>Design</span></div>
+                <div className="popupuib9">
+                    <h3 className="popupuib10"> This is a wed Design</h3>
+                   <p className="popupuib11">This UI/UX design portfolio website presents a curated collection of digital experiences, showcasing creativity and user-centered design principles. With a clean layout, intuitive navigation, and visually appealing presentation, it offers insights into the designer's expertise. Through interactive case studies and detailed project descriptions, the portfolio engages visitors and encourages collaboration. It provides a seamless user experience for exploring past projects, learning about design processes, and fostering connections within the design community. The website serves as a powerful tool for highlighting the designer's talent and attracting new opportunities.</p>
+                    <ul className="popupuib12">
                         <li>Created - <span>1 Mar 2024</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>wed Design</span></li>
@@ -2057,25 +2057,25 @@ const togglepopuppda1 = () => {
 
 
 
-<div class="popupuic1">
-    <div class="popupuic2">
-        <div class="popupuic3">
+<div className="popupuic1">
+    <div className="popupuic2">
+        <div className="popupuic3">
             <span className="popupuic4" onClick={togglepopupuic1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
                 <div className="popupuic5"><img src={ui3} alt="" className="popupuic6" /></div> 
             
-            <div class="popupuic7">
-                <div class="popupuic8">UI/UX - <span>Design</span></div>
-                <div class="popupuic9">
-                    <h3 class="popupuic10"> This is a wed Design</h3>
-                   <p class="popupuic11">This UI/UX design website represents the pinnacle of digital craftsmanship, seamlessly blending innovation with functionality to create a captivating user experience. From the moment visitors land on the homepage, they are greeted with a visually stunning interface that invites exploration. The intuitive navigation guides users through a showcase of projects, highlighting the designer’s expertise in creating intuitive interfaces and engaging user experiences. Each project is presented with meticulous attention to detail, showcasing the design process, challenges overcome, and the final result. Whether it’s responsive web designs, mobile applications, or interactive prototypes, this website demonstrates the designer’s versatility and mastery of the digital medium. With its sleek aesthetics and user-friendly interface, it not only showcases the designer’s portfolio but also serves as a testament to their dedication to excellence in UI/UX design.</p>
-                    <ul class="popupuic12">
+            <div className="popupuic7">
+                <div className="popupuic8">UI/UX - <span>Design</span></div>
+                <div className="popupuic9">
+                    <h3 className="popupuic10"> This is a wed Design</h3>
+                   <p className="popupuic11">This UI/UX design website represents the pinnacle of digital craftsmanship, seamlessly blending innovation with functionality to create a captivating user experience. From the moment visitors land on the homepage, they are greeted with a visually stunning interface that invites exploration. The intuitive navigation guides users through a showcase of projects, highlighting the designer’s expertise in creating intuitive interfaces and engaging user experiences. Each project is presented with meticulous attention to detail, showcasing the design process, challenges overcome, and the final result. Whether it’s responsive web designs, mobile applications, or interactive prototypes, this website demonstrates the designer’s versatility and mastery of the digital medium. With its sleek aesthetics and user-friendly interface, it not only showcases the designer’s portfolio but also serves as a testament to their dedication to excellence in UI/UX design.</p>
+                    <ul className="popupuic12">
                         <li>Created - <span>1 Mar 2024</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>wed Design</span></li>
-                        <li>URL - <span><a href="https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2">https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2</a></span></li>
+                       <li>URL - <span><a href="https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2">https://www.figma.com/proto/v1kYa3Lx3XhzPLb0O9nKDi/InsightProxim?type=design&node-id=48-2&t=V5JHFL0NKwfasKHr-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=48%3A2</a></span></li>
                     </ul>
                 </div>
-            </div>
+           </div>
         </div>
     </div>
 </div>
@@ -2085,18 +2085,18 @@ const togglepopuppda1 = () => {
 
 
 
-<div class="popupuid1">
-    <div class="popupuid2">
-        <div class="popupuid3">
+<div className="popupuid1">
+    <div className="popupuid2">
+        <div className="popupuid3">
             <span className="popupuid4" onClick={togglepopupuid1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
                 <div className="popupuid5"><img src={ui4} alt="" className="popupuid6" /></div> 
             
-            <div class="popupuid7">
-                <div class="popupuid8">UI/UX - <span>Design</span></div>
-                <div class="popupuid9">
-                    <h3 class="popupuid10"> This is a app Design</h3>
-                   <p class="popupuid11">This UI/UX design app revolutionizes the interior design experience, empowering users to visualize and personalize their spaces with ease and creativity. From conceptualization to execution, every aspect of the app is meticulously crafted to inspire and delight users. With intuitive navigation and seamless interactions, users can effortlessly explore a vast library of furniture, decor, and color schemes, tailoring each element to their unique style and preferences. Whether it’s designing a dream living room, planning a kitchen remodel, or simply experimenting with different layouts, this app provides a virtual canvas for users to bring their interior design visions to life. With its user-friendly interface and powerful features, it not only simplifies the design process but also fosters a deeper connection between users and their living spaces, making interior design accessible to everyone.</p>
-                    <ul class="popupuid12">
+            <div className="popupuid7">
+                <div className="popupuid8">UI/UX - <span>Design</span></div>
+                <div className="popupuid9">
+                    <h3 className="popupuid10"> This is a app Design</h3>
+                   <p className="popupuid11">This interior design app transforms the design process, allowing users to visualize and personalize their spaces with ease. It offers a vast library of furniture, decor, and color schemes, enabling users to tailor every element to their unique style. With intuitive navigation and seamless interactions, users can easily experiment with different layouts and designs. By simplifying the process and fostering a deeper connection between users and their living spaces, the app makes interior design accessible to everyone.</p>
+                    <ul className="popupuid12">
                         <li>Created - <span>15 Mar 2023</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>app Design</span></li>
@@ -2114,18 +2114,18 @@ const togglepopuppda1 = () => {
 
 
 
-<div class="popupuie1">
-    <div class="popupuie2">
-        <div class="popupuie3">
+<div className="popupuie1">
+    <div className="popupuie2">
+        <div className="popupuie3">
             <span className="popupuie4" onClick={togglepopupuie1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
                 <div className="popupuie5"><img src={ui5} alt="" className="popupuie6" /></div> 
             
-            <div class="popupuie7">
-                <div class="popupuie8">UI/UX - <span>Design</span></div>
-                <div class="popupuie9">
-                    <h3 class="popupuie10"> This is a app Design</h3>
-                   <p class="popupuie11">This UI/UX design app represents the epitome of innovation and user-centric design, catering to the diverse needs and preferences of today’s digital consumers. With its sleek interface and intuitive navigation, it offers a seamless and immersive user experience across devices. From streamlined workflows to personalized recommendations, every feature is meticulously crafted to enhance user engagement and satisfaction. Whether it’s managing tasks, tracking fitness goals, or connecting with friends, this app seamlessly integrates into users’ daily lives, empowering them to achieve their goals and stay connected on the go. With its sleek aesthetics and intuitive functionality, it sets a new standard for mobile app design, delighting users and driving long-term loyalty and engagement.</p> 
-                    <ul class="popupuie12">
+            <div className="popupuie7">
+                <div className="popupuie8">UI/UX - <span>Design</span></div>
+                <div className="popupuie9">
+                    <h3 className="popupuie10"> This is a app Design</h3>
+                   <p className="popupuie11">This UI/UX design app represents the epitome of innovation and user-centric design, catering to the diverse needs and preferences of today’s digital consumers. With its sleek interface and intuitive navigation, it offers a seamless and immersive user experience across devices. From streamlined workflows to personalized recommendations, every feature is meticulously crafted to enhance user engagement and satisfaction. Whether it’s managing tasks, tracking fitness goals, or connecting with friends, this app seamlessly integrates into users’ daily lives, empowering them to achieve their goals and stay connected on the go. With its sleek aesthetics and intuitive functionality, it sets a new standard for mobile app design, delighting users and driving long-term loyalty and engagement.</p> 
+                    <ul className="popupuie12">
                         <li>Created - <span>20 Nov 2024</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>app Design</span></li>
@@ -2142,22 +2142,22 @@ const togglepopuppda1 = () => {
 
 
 
-<div class="popupuif1">
-    <div class="popupuif2">
-        <div class="popupuif3">
+<div className="popupuif1">
+    <div className="popupuif2">
+        <div className="popupuif3">
             <span className="popupuif4" onClick={togglepopupuif1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
                 <div className="popupuif5"><img src={ui6} alt="" className="popupuif6" /></div> 
             
-            <div class="popupuif7">
-                <div class="popupuif8">UI/UX - <span>Design</span></div>
-                <div class="popupuif9">
-                    <h3 class="popupuif10"> This is a app Design</h3>
-                   <p class="popupuif11">This UI/UX design shoe app redefines the online shopping experience for footwear enthusiasts, seamlessly blending style with functionality. With its sleek interface and intuitive navigation, it offers users a seamless journey from browsing to purchase. From exploring the latest trends to filtering by size and style, every feature is meticulously crafted to enhance the user’s experience and satisfaction. Whether it’s discovering new arrivals, receiving personalized recommendations, or exploring exclusive deals, this app caters to the diverse needs and preferences of shoe enthusiasts. With its visually stunning design and user-friendly interface, it sets a new standard for mobile shoe shopping, making it easier and more enjoyable than ever to find the perfect pair.</p>
-                    <ul class="popupuif12">
+            <div className="popupuif7">
+                <div className="popupuif8">UI/UX - <span>Design</span></div>
+                <div className="popupuif9">
+                    <h3 className="popupuif10"> This is a app Design</h3>
+                   <p className="popupuif11">This shoe app revolutionizes online shopping for footwear enthusiasts by seamlessly combining style and functionality. With a sleek interface and intuitive navigation, users can easily browse, discover trends, and make purchases. The app offers personalized recommendations and exclusive deals, catering to diverse preferences. Its visually stunning design and user-friendly interface set a new standard for mobile shoe shopping, making it effortless and enjoyable to find the perfect pair.</p>
+                    <ul className="popupuif12">
                         <li>Created - <span>17 Dec 2023</span></li>
                         <li>Technology - <span>figma</span></li>
                         <li>Role - <span>app Design</span></li>
-                        <li>URL - <span><a href="www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255">https://www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255</a></span></li>
+                        <li>URL - <span><a href="www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255">www.figma.com/proto/2KTG24ZyJlUj8Ho40SV7hp/Shoe-app-design?type=design&node-id=7-1255&t=V5JHFL0NKwfasKHr-0&scaling=min-zoom&page-id=6%3A13&starting-point-node-id=7%3A1255</a></span></li>
                     </ul>
                 </div>
             </div>
