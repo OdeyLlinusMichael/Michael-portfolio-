@@ -22,6 +22,7 @@ import all19 from '../../assets/all19.png';
 import all20 from '../../assets/all20.png';
 import all21 from '../../assets/all21.png';
 import all22 from '../../assets/all22.png';
+import all23 from '../../assets/all23.png';
 
 import ui1 from '../../assets/ui1.png';
 import ui2 from '../../assets/ui2.png';
@@ -330,6 +331,19 @@ const togglePopup = () => {
   
   const togglepopupat1 = () => {
     const popup = document.querySelector(".popupat1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
+
+
+
+  const togglepopupau1 = () => {
+    const popup = document.querySelector(".popupau1");
     if (popup.style.visibility === "visible") {
       popup.style.visibility = "hidden";
       popup.style.opacity = "0";
@@ -915,7 +929,15 @@ const togglepopuppda1 = () => {
                 <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupar1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
-            
+
+            <div className="porp5">
+              <img src={all23} alt="" />
+              <div className="porp6000">
+                <h3>Graphics design</h3>
+                <p>That is a Graphics design click the icon to get more info</p>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupat1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              </div>
+            </div>
           </div>
           
           
@@ -2024,6 +2046,35 @@ const togglepopuppda1 = () => {
                     <h3 className="popupat10"> This is a flyer design</h3>
                     <p className="popupat11">This social media flyer design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This flyer design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
                     <ul className="popupat12">
+                        <li>Created - <span>9 Dec 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>invitation card Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+      
+
+  <div className="popupau1">
+    <div className="popupau2">
+        <div className="popupau3">
+            <span className="popupau4" onClick={togglepopupat1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupau5"><img src={all23} alt="" className="popupau6" /></div>
+            
+            <div className="popupau7">
+                <div className="popupau8">graphics design - <span>Design</span></div>
+                <div className="popupau9">
+                    <h3 className="popupau10"> This is a flyer design</h3>
+                    <p className="popupau11">This social media flyer design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This flyer design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupau12">
                         <li>Created - <span>9 Dec 2023</span></li>
                         <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
                         <li>Role - <span>invitation card Design</span></li>
