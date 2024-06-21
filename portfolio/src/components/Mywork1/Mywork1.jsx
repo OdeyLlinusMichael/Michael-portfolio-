@@ -61,6 +61,8 @@ import pd10 from '../../assets/pd10.png';
 import pd11 from '../../assets/pd11.png';
 import pd12 from '../../assets/pd12.png';
 import pd13 from '../../assets/pd13.png';
+import pd14 from '../../assets/pd14.png';
+import pd15 from '../../assets/pd15.png';
 
 
 import './Mywork1.css'; 
@@ -761,9 +763,27 @@ const togglepopuppda1 = () => {
     }
   };
  
+const togglepopuppdn1 = () => {
+    const popup = document.querySelector(".popuppdn1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
 
-
-
+const togglepopuppdo1 = () => {
+    const popup = document.querySelector(".popuppdo1");
+    if (popup.style.visibility === "visible") {
+      popup.style.visibility = "hidden";
+      popup.style.opacity = "0";
+    } else {
+      popup.style.visibility = "visible";
+      popup.style.opacity = "1";
+    }
+  };
 
 
 
@@ -1314,6 +1334,15 @@ const togglepopuppda1 = () => {
                 <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdj1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
+
+            <div className="porp5">
+              <img src={pd14} alt="" />
+              <div className="porp6000">
+                <h3>Product design</h3>
+                <p>That is a Product design click the icon to get more info</p>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdj1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              </div>
+            </div>
             
           </div>
           
@@ -1353,6 +1382,15 @@ const togglepopuppda1 = () => {
                 <h3>Product design</h3>
                 <p>That is a Product design click the icon to get more info</p>
                 <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdk1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              </div>
+            </div>
+
+            <div className="porp5">
+              <img src={pd15} alt="" />
+              <div className="porp6000">
+                <h3>Product design</h3>
+                <p>That is a Product design click the icon to get more info</p>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopuppdj1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -3080,6 +3118,55 @@ const togglepopuppda1 = () => {
 </div>
 
 
+<div className="popuppdn1">
+    <div className="popuppdn2">
+        <div className="popuppdn3">
+            <span className="popuppdn4" onClick={togglepopuppdm1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdn5"><img src={pd14} alt="" className="popuppdn6" /></div>
+            
+            <div className="popuppdn7">
+                <div className="popuppdn8">Product - <span>Design</span></div>
+                <div className="popuppdn9">
+                    <h3 className="popuppdn10"> This is a Product design </h3>
+                    <p className="popuppdn11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdn12">
+                        <li>Created - <span>16 jan 2024</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div className="popuppdo1">
+    <div className="popuppdo2">
+        <div className="popuppdo3">
+            <span className="popuppdo4" onClick={togglepopuppdm1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popuppdo5"><img src={pd15} alt="" className="popuppdo6" /></div>
+            
+            <div className="popuppdo7">
+                <div className="popuppdo8">Product - <span>Design</span></div>
+                <div className="popuppo9">
+                    <h3 className="popuppdo10"> This is a Product design </h3>
+                    <p className="popuppdo11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popuppdo12">
+                        <li>Created - <span>16 jan 2024</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>Product design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+      
     </motion.div>          
     </div>
     
