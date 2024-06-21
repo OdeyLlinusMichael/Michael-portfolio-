@@ -19,17 +19,12 @@ const Resume2 = () => {
 
     return (
         <div className="containerx">
-            <motion.main 
-                className="rowx"
-                initial={{ opacity: 0, y: 300 }} 
-                animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
-                transition={{ duration: 1 }}
-            >
+            <main className="rowx">
                 {/* ******* Education Section Starts ******* */}
                 <section className="colx">
-                  <header className="titlex">
-                     <h2>EDUCATION</h2>
-                  </header>
+                    <header className="titlex">
+                        <h2>EDUCATION</h2>
+                    </header>
                     
                     <div className="contentsx">
                         <div className="boxx">
@@ -90,7 +85,7 @@ const Resume2 = () => {
                     </div>
                 </section>
                 {/* ******* Experience Section Ends ******* */}
-            </motion.main>
+            </main>
         </div>
     );
 };
