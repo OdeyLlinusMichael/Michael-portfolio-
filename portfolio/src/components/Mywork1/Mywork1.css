@@ -1134,7 +1134,9 @@
 .popuppdj1,
 .popuppdk1, 
 .popuppdl1,
-.popuppdm1 {
+.popuppdm1,
+.popuppdn1,
+.popuppdo1 {
   position: fixed;
   top: 0;
   left: 0;
@@ -1163,7 +1165,9 @@
 .popuppdj1.open,
 .popuppdk1.open, 
 .popuppdl1.open,
-.popuppdm1.open {
+.popuppdm1.open,
+.popuppdn1.open,
+.popuppdo1.open {
   opacity: 1;
   visibility: visible;
 }
@@ -1180,7 +1184,9 @@
 .popuppdj2,
 .popuppdk2, 
 .popuppdl2,
-.popuppdm2 {
+.popuppdm2,
+.popuppdn2,
+.popuppdo2 {
   background-color: #3A3B3C;
   border-radius: 8px;
   position: relative;
@@ -1201,7 +1207,9 @@
 .popuppdj3,
 .popuppdk3, 
 .popuppdl3,
-.popuppdm3 {
+.popuppdm3,
+.popuppdn3,
+.popuppdo3 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -1220,7 +1228,9 @@
 .popuppdj4,
 .popuppdk4, 
 .popuppdl4,
-.popuppdm4 {
+.popuppdm4,
+.popuppdn4,
+.popuppdo4 {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
@@ -1241,7 +1251,9 @@
 .popuppdj4 svg,
 .popuppdk4 svg, 
 .popuppdl4 svg,
-.popuppdm4 svg {
+.popuppdm4 svg,
+.popuppdn4 svg,
+.popuppdo4 svg {
   width: 20px;
   height: 60px;
 }
@@ -1258,7 +1270,9 @@
 .popuppdj5,
 .popuppdk5, 
 .popuppdl5,
-.popuppdm5 {
+.popuppdm5,
+.popuppdn5,
+.popuppdo5 {
   display: flex;
   justify-content: center; /* Center the image horizontally */
   align-items: center; /* Center the image vertically */
@@ -1277,7 +1291,9 @@
 .popuppdj6,
 .popuppdk6, 
 .popuppdl6,
-.popuppdm6 {
+.popuppdm6,
+.popuppdn6,
+.popuppdo6 {
   max-width: 100%; /* Ensure the image doesn't exceed its container */
   max-height: 100%; /* Ensure the image doesn't exceed its container */
   width: auto; /* Allow the image to adjust its auto */
@@ -1297,6 +1313,8 @@
 .popuppdk8, 
 .popuppdl8,
 .popuppdm8,
+.popuppdn8,
+.popuppdo8,
 .popuppda11, 
 .popuppdb11,
 .popuppdc11, 
@@ -1309,7 +1327,9 @@
 .popuppdj11,
 .popuppdk11, 
 .popuppdl11,
-.popuppdm11{
+.popuppdm11,
+.popuppdn11,
+.popuppdo11 {
   font-size: 20px;
   margin-bottom: 20px;
   font-weight: 500;
@@ -1327,7 +1347,9 @@
 .popuppdj10,
 .popuppdk10, 
 .popuppdl10,
-.popuppdm10 {
+.popuppdm10,
+.popuppdn10,
+.popuppdo10 {
   font-size: 30px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -1345,7 +1367,9 @@
 .popuppdj12 li,
 .popuppdk12 li, 
 .popuppdl12 li,
-.popuppdm12 li {
+.popuppdm12 li,
+.popuppdn12 li,
+.popuppdo12 li {
   font-size: 20px;
   margin-bottom: 10px;
   text-transform: capitalize;
@@ -1364,7 +1388,9 @@
 .popuppdj12 li:last-child,
 .popuppdk12 li:last-child, 
 .popuppdl12 li:last-child,
-.popuppdm12 li:last-child {
+.popuppdm12 li:last-child,
+.popuppdn12 li:last-child,
+.popuppdo12 li:last-child {
   margin-bottom: 0;
 }
 
@@ -1380,7 +1406,9 @@
 .popuppdj12 li span,
 .popuppdk12 li span, 
 .popuppdl12 li span,
-.popuppdm12 li span {
+.popuppdm12 li span,
+.popuppdn12 li span,
+.popuppdo12 li span {
   font-weight: normal;
 }
 
@@ -1396,12 +1424,13 @@
 .popuppdj12 a,
 .popuppdk12 a, 
 .popuppdl12 a,
-.popuppdm12 a {
+.popuppdm12 a,
+.popuppdn12 a,
+.popuppdo12 a {
   color: #ff0000;
   text-decoration: none;
   text-transform: lowercase;
 }
-
 
 
 
@@ -1483,13 +1512,13 @@
 .popupap2,
 .popupaq2,
 .popupar2,
-.popupas2 {
+.popupas2,
+.popupat2,
+.popupau2 {
   max-width: 100%; 
   width: 90%; /* Adjusted width for smaller screens */
   padding: 20px; /* Reduced padding for smaller screens */
 }
-
-
 
 .popup3,
 .popupa3,
@@ -1511,7 +1540,9 @@
 .popupap3,
 .popupaq3,
 .popupar3,
-.popupas3 {
+.popupas3,
+.popupat3,
+.popupau3 {
   display: flex;
   flex-direction: column; /* Display in a single column on smaller screens */
   align-items: center; /* Center items on smaller screens */
@@ -1537,13 +1568,12 @@
 .popupap4,
 .popupaq4,
 .popupar4,
-.popupas4  {
+.popupas4,
+.popupat4,
+.popupau4  {
   top: 1rem; /* Adjusted top position for smaller screens */
   right: 1rem; /* Adjusted right position for smaller screens */
 }
-
-
-
 
 .popup5,
 .popupa5,
@@ -1565,7 +1595,9 @@
 .popupap5,
 .popupaq5,
 .popupar5,
-.popupas5 {
+.popupas5,
+.popupat5,
+.popupau5 {
   display: flex;
   justify-content: center; /* Center the image horizontally */
   align-items: center; /* Center the image vertically */
@@ -1592,14 +1624,14 @@
 .popupap6,
 .popupaq6,
 .popupar6,
-.popupas6 {
+.popupas6,
+.popupat6,
+.popupau6 {
   max-width: 100%; /* Ensure the image doesn't exceed its container */
   max-height: 100%; /* Ensure the image doesn't exceed its container */
-  width: auto; /* Allow the image to adjust its auto */
+  width: auto; /* Allow the image to adjust its width */
   height: auto; /* Allow the image to adjust its height */
 }
-
-
 
 .popup8,
 .popupa8,
@@ -1622,6 +1654,8 @@
 .popupaq8,
 .popupar8,
 .popupas8,
+.popupat8,
+.popupau8,
 .popup11,
 .popupa11,
 .popupaa11,
@@ -1642,7 +1676,9 @@
 .popupap11,
 .popupaq11,
 .popupar11,
-.popupas11 {
+.popupas11,
+.popupat11,
+.popupau11 {
   font-size: 11px; /* Decreased font size for smaller screens */
   text-align: center; /* Center text on smaller screens */
 }
@@ -1667,7 +1703,9 @@
 .popupap10,
 .popupaq10,
 .popupar10,
-.popupas10 {
+.popupas10,
+.popupat10,
+.popupau10 {
   font-size: 15px; /* Decreased font size for smaller screens */
   text-align: center; /* Center text on smaller screens */
 }
@@ -1692,7 +1730,9 @@
 .popupap12 li,
 .popupaq12 li,
 .popupar12 li,
-.popupas12 li {
+.popupas12 li,
+.popupat12 li,
+.popupau12 li {
   font-size: 11px; /* Decreased font size for smaller screens */
 }
 
@@ -1716,7 +1756,9 @@
 .popupap12 a,
 .popupaq12 a,
 .popupar12 a,
-.popupas12 a {
+.popupas12 a,
+.popupat12 a,
+.popupau12 a {
   text-align: center;
   font-size: 9px; 
   color: #ff0000;
@@ -2066,7 +2108,9 @@
 .popuppdj2, 
 .popuppdk2, 
 .popuppdl2, 
-.popuppdm2 {
+.popuppdm2,
+.popuppdn2,
+.popuppdo2 {
   max-width: 100%; 
   width: 90%; /* Adjusted width for smaller screens */
   padding: 20px; /* Reduced padding for smaller screens */
@@ -2084,7 +2128,9 @@
 .popuppdj3,
 .popuppdk3,
 .popuppdl3,
-.popuppdm3 {
+.popuppdm3,
+.popuppdn3,
+.popuppdo3 {
   display: flex;
   flex-direction: column; /* Display in a single column on smaller screens */
   align-items: center; /* Center items on smaller screens */
@@ -2102,7 +2148,9 @@
 .popuppdj4,
 .popuppdk4,
 .popuppdl4,
-.popuppdm4 {
+.popuppdm4,
+.popuppdn4,
+.popuppdo4 {
   top: 1rem; /* Adjusted top position for smaller screens */
   right: 1rem; /* Adjusted right position for smaller screens */
 }
@@ -2119,7 +2167,9 @@
 .popuppdj5,
 .popuppdk5,
 .popuppdl5,
-.popuppdm5 {
+.popuppdm5,
+.popuppdn5,
+.popuppdo5 {
   display: flex;
   justify-content: center; /* Center the image horizontally */
   align-items: center; /* Center the image vertically */
@@ -2138,7 +2188,9 @@
 .popuppdj6,
 .popuppdk6,
 .popuppdl6,
-.popuppdm6 {
+.popuppdm6,
+.popuppdn6,
+.popuppdo6 {
   max-width: 100%; /* Ensure the image doesn't exceed its container */
   max-height: 100%; /* Ensure the image doesn't exceed its container */
   width: auto; /* Allow the image to adjust its auto */
@@ -2158,6 +2210,8 @@
 .popuppdk8,
 .popuppdl8,
 .popuppdm8,
+.popuppdn8,
+.popuppdo8,
 .popuppda11,
 .popuppdb11,
 .popuppdc11,
@@ -2170,7 +2224,9 @@
 .popuppdj11,
 .popuppdk11,
 .popuppdl11,
-.popuppdm11 {
+.popuppdm11,
+.popuppdn11,
+.popuppdo11 {
   font-size: 11px; /* Decreased font size for smaller screens */
   text-align: center; /* Center text on smaller screens */
 }
@@ -2187,7 +2243,9 @@
 .popuppdj10,
 .popuppdk10,
 .popuppdl10,
-.popuppdm10 {
+.popuppdm10,
+.popuppdn10,
+.popuppdo10 {
   font-size: 15px; /* Decreased font size for smaller screens */
   text-align: center; /* Center text on smaller screens */
 }
@@ -2204,7 +2262,9 @@
 .popuppdj12 li,
 .popuppdk12 li,
 .popuppdl12 li,
-.popuppdm12 li {
+.popuppdm12 li,
+.popuppdn12 li,
+.popuppdo12 li {
   font-size: 11px; /* Decreased font size for smaller screens */
 }
 
@@ -2220,11 +2280,11 @@
 .popuppdj12 a,
 .popuppdk12 a,
 .popuppdl12 a,
-.popuppdm12 a {
+.popuppdm12 a,
+.popuppdn12 a,
+.popuppdo12 a {
   color: #ff0000;
   text-transform: lowercase; /* Corrected placement */
 }
-
-
   
 }
