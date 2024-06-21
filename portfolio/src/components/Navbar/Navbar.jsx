@@ -9,7 +9,7 @@ const Navbar = () => {
 
   useEffect(() => {
     const typed = new Typed(".auto-type", {
-      strings: ["ODEY LINUS MICHAEL", "A FREELANCER", "A UI/UX DESIGNER", "PRODUCT DESIGNER", "GRAPHICS DESIGNER"],
+      strings: ["ODEY LINUS MICHAEL", "A FREELANCER", "A UI/UX DESIGNER", "A PRODUCT DESIGNER", "A GRAPHICS DESIGNER", "A Frontend Developer", "A Nocode Developer"],
       typeSpeed: 150,
       backSpeed: 150,
       loop: true 
