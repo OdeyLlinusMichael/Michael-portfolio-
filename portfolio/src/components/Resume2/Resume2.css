@@ -29,10 +29,8 @@
 	position: relative;
 	padding: 40px;
 	cursor: pointer;
-
 	margin-bottom: 20px;
-
-	background-color:  #1a1a1a; 
+    background-color:  #1a1a1a; 
     border-radius:;
     transition: all .2s;
 }
