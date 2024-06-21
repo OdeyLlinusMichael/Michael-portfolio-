@@ -27,11 +27,13 @@ const Resume2 = () => {
                     </header>
                     
                     <div className="contentsx">
-                        <div className="boxx">
-                            <h4>Dec. 2023</h4>
-                            <h3>Udemy.Inc</h3>
-                            <p>certificate of completion-Figma UI/UX Design Advanced</p>
-                            <p>I earned a certificate of completion in Figma UI/UX Design Advanced from Udemy, Inc., further expanding my skill set and expertise in user interface and experience design.</p>
+                        <div className="box1">
+                            <div className="boxx">
+                               <h4>Dec. 2023</h4>
+                               <h3>Udemy.Inc</h3>
+                               <p>certificate of completion-Figma UI/UX Design Advanced</p>
+                               <p>I earned a certificate of completion in Figma UI/UX Design Advanced from Udemy, Inc., further expanding my skill set and expertise in user interface and experience design.</p>
+                            </div>
                         </div>
                         <div className="boxx">
                             <h4>2018 - 2023</h4>
