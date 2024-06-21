@@ -39,27 +39,34 @@ const Skills = () => {
           </div>
           {/* Add other left-aligned skills here */}
           <div className="skill-group additional-class">
-            <p className="skill additional-class">Web Design <span className="skill-level additional-class">85%</span></p>
-            <div className="progress-bar-container additional-class">
-              <div className="progress-bar-background"></div>
-              <div className="progress-bar-foreground" style={{ width: '85%' }}></div>
-            </div>
-          </div>
-          <div className="skill-group additional-class">
             <p className="skill additional-class">Figma <span className="skill-level additional-class">90%</span></p>
             <div className="progress-bar-container additional-class">
               <div className="progress-bar-background"></div>
               <div className="progress-bar-foreground" style={{ width: '90%' }}></div>
             </div>
           </div>
+          <div className="skill-group additional-class">
+            <p className="skill additional-class">React <span className="skill-level additional-class">85%</span></p>
+            <div className="progress-bar-container additional-class">
+              <div className="progress-bar-background"></div>
+              <div className="progress-bar-foreground" style={{ width: '85%' }}></div>
+            </div>
+          </div>
+          <div className="skill-group additional-class">
+            <p className="skill additional-class">flutterFlow <span className="skill-level additional-class">85%</span></p>
+            <div className="progress-bar-container additional-class">
+              <div className="progress-bar-background"></div>
+              <div className="progress-bar-foreground" style={{ width: '85%' }}></div>
+            </div>
+          </div>
           {/* stop */}
         </div>
         <div className="right-skills">    
           <div className="skill-group additional-class">
-            <p className="skill additional-class">HTML/CSS <span className="skill-level additional-class">70%</span></p>
+            <p className="skill additional-class">HTML/CSS <span className="skill-level additional-class">95%</span></p>
             <div className="progress-bar-container additional-class">
               <div className="progress-bar-background"></div>
-              <div className="progress-bar-foreground" style={{ width: '70%' }}></div>
+              <div className="progress-bar-foreground" style={{ width: '95%' }}></div>
             </div>
           </div>
           {/* Add other right-aligned skills here */}
@@ -75,6 +82,13 @@ const Skills = () => {
             <div className="progress-bar-container additional-class">
               <div className="progress-bar-background"></div>
               <div className="progress-bar-foreground" style={{ width: '95%' }}></div>
+            </div>
+          </div>
+          <div className="skill-group additional-class">
+            <p className="skill additional-class"> JavaScript <span className="skill-level additional-class">75%</span></p>
+            <div className="progress-bar-container additional-class">
+              <div className="progress-bar-background"></div>
+              <div className="progress-bar-foreground" style={{ width: '75%' }}></div>
             </div>
           </div>
           {/* Add other right-aligned skills here */}
