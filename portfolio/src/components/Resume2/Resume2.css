@@ -56,7 +56,13 @@
 	position: relative;
 	color: #ff0000;
 }
-.boxx h3{
+.boxx h3 {
+	font-size: 19px;
+	padding: 10px 0px 6px;
+	font-family: helvetica;
+	color: #444;
+}
+.boxx .t01{
 	font-size: 19px;
 	padding: 10px 0px 6px;
 	font-family: helvetica;

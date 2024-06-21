@@ -39,7 +39,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                <h4>jun. 2024</h4>
                                <h3> European open university</h3>
-                               <p> Web Analytics SEO-Professional certification program </p>
+                               <p className="t01"> Web Analytics SEO-Professional certification program </p>
                                <p> I earned a Web Analytics SEO-Developer Certification from European Open University, further expanding my skill set and expertise in search engine optimization and web analytics.</p>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                <h4>Mar. 2024</h4>
                                <h3>Udemy.Inc</h3>
-                               <p>certificate of completion-flutterFlow beginners, crash course</p>
+                               <p className="t01">certificate of completion-flutterFlow beginners, crash course</p>
                                <p>I completed the FlutterFlow Beginner Crash Course from Udemy, Inc., earning a Certificate of Completion and advancing my proficiency in nocode development.".</p>
                             </div>
                         </div> 
@@ -55,7 +55,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                <h4>Dec. 2023</h4>
                                <h3>Udemy.Inc</h3>
-                               <p>certificate of completion-Figma UI/UX Design Advanced</p>
+                               <p className="t01">certificate of completion-Figma UI/UX Design Advanced</p>
                                <p>I earned a certificate of completion in Figma UI/UX Design Advanced from Udemy, Inc., further expanding my skill set and expertise in user interface and experience design.</p>
                             </div>
                         </div>
@@ -63,7 +63,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                <h4>2018 - 2023</h4>
                                <h3>Federal Polytechnic Auchi, Edo State</h3>
-                               <p>Diploma in Banking and Finance</p>
+                               <p className="t01">Diploma in Banking and Finance</p>
                                <p>At Federal Polytechnic Auchi, Edo State, I pursued a Diploma in Banking and Finance, gaining valuable insights into financial principles and management practices.</p>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                 <h4>2016 - 2018</h4>
                                 <h3>Global-Tech World Computer Institute</h3>
-                                <p>Desktop Publishing and graphic designs</p>
+                                <p className="t01">Desktop Publishing and graphic designs</p>
                                 <p>At Global-Tech World Computer Institute, I specialized in desktop publishing and graphic design, honing my skills and knowledge in these areas to prepare for a career in the creative industry.</p>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                <h4>2010 - 2016</h4>
                                <h3>Hephzibah college secondary school</h3>
-                               <p>Secondary School Leacing Certificate(SSCE)</p>
+                               <p className="t01">Secondary School Leacing Certificate(SSCE)</p>
                                <p>My secondary school education provided me with a solid academic grounding and further fueled my passion for exploration and knowledge acquisition.</p>
                             </div>
                         </div>
@@ -87,7 +87,7 @@ const Resume2 = () => {
                             <div className="boxx">
                                <h4>2000 - 2010</h4>
                                <h3>First Gate Primary School</h3>
-                               <p>Primary School Leaving Certificate</p>
+                               <p className="t01">Primary School Leaving Certificate</p>
                                <p>During my primary school years, I began cultivating a curiosity for learning and laying the foundation for my future endeavors.</p>
                             </div>
                         </div>
