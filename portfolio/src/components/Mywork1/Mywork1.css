@@ -176,7 +176,8 @@
 .popupaq1,
 .popupar1,
 .popupas1,
-.popupat1 {
+.popupat1,
+.popupau1 {
   position: fixed;
   top: 0;
   left: 0;
@@ -214,7 +215,8 @@
 .popupaq1.open,
 .popupar1.open,
 .popupas1.open,
-.popupat1.open {
+.popupat1.open,
+.popupau1.open {
   opacity: 1;
   visibility: visible;
 }
@@ -240,15 +242,13 @@
 .popupaq2,
 .popupar2,
 .popupas2,
-.popupat2 {
+.popupat2,
+.popupau2 {
   background-color: #3A3B3C;
-  
   border-radius: 8px;
-  
   position: relative;
-  
   max-width: 100%; 
-  width: 90%; /* width: 1200px; padding: 40px; */
+  width: 90%;
   padding: 20px;
 }
 
@@ -273,7 +273,8 @@
 .popupaq3,
 .popupar3,
 .popupas3, 
-.popupat3 {
+.popupat3,
+.popupau3 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -301,7 +302,8 @@
 .popupaq4,
 .popupar4,
 .popupas4, 
-.popupat4 {
+.popupat4,
+.popupau4 {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
@@ -331,11 +333,11 @@
 .popupaq4 svg,
 .popupar4 svg,
 .popupas4 svg, 
-.popupat4 svg {
+.popupat4 svg,
+.popupau4 svg {
   width: 20px;
   height: 60px;
 }
-
 
 .popup5,
 .popupa5,
@@ -358,11 +360,12 @@
 .popupaq5,
 .popupar5,
 .popupas5, 
-.popupat5 {
+.popupat5,
+.popupau5 {
   display: flex;
-  justify-content: center; /* Center the image horizontally */
-  align-items: center; /* Center the image vertically */
-  height: 700px; /* Set a fixed height for the container */
+  justify-content: center;
+  align-items: center;
+  height: 700px;
 } 
 
 .popup6,
@@ -386,13 +389,13 @@
 .popupaq6,
 .popupar6,
 .popupas6, 
-.popupat6 {
-  max-width: 100%; /* Ensure the image doesn't exceed its container */
-  max-height: 100%; /* Ensure the image doesn't exceed its container */
-  width: auto; /* Allow the image to adjust its auto */
-  height: auto; /* Allow the image to adjust its height */
+.popupat6,
+.popupau6 {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
 }
-
 
 .popup8,
 .popupa8,
@@ -416,6 +419,7 @@
 .popupar8,
 .popupas8,
 .popupat8,
+.popupau8,
 .popup11,
 .popupa11,
 .popupaa11,
@@ -437,7 +441,8 @@
 .popupaq11,
 .popupar11,
 .popupas11, 
-.popupat11 {
+.popupat11,
+.popupau11 {
   font-size: 20px;
   margin-bottom: 20px;
   font-weight: 500;
@@ -464,7 +469,8 @@
 .popupaq10,
 .popupar10,
 .popupas10, 
-.popupat10 {
+.popupat10,
+.popupau10 {
   font-size: 30px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -491,7 +497,8 @@
 .popupaq12 li,
 .popupar12 li,
 .popupas12 li, 
-.popupat12 li {
+.popupat12 li,
+.popupau12 li {
   font-size: 20px;
   margin-bottom: 10px;
   text-transform: capitalize;
@@ -519,7 +526,8 @@
 .popupaq12 li:last-child,
 .popupar12 li:last-child,
 .popupas12 li:last-child,
-.popupat12 li:last-child {
+.popupat12 li:last-child,
+.popupau12 li:last-child {
   margin-bottom: 0;
 }
 
@@ -544,7 +552,8 @@
 .popupaq12 li span,
 .popupar12 li span,
 .popupas12 li span, 
-.popupat12 li span {
+.popupat12 li span,
+.popupau12 li span {
   font-weight: normal;
 }
 
@@ -569,12 +578,12 @@
 .popupaq12 a,
 .popupar12 a,
 .popupas12 a,
-.popupat12 a {
+.popupat12 a,
+.popupau12 a {
   color: #ff0000;
   text-decoration: none;
   text-transform: lowercase;
 }
-
 
                     /* popup ui/ux */
 
