@@ -19,25 +19,19 @@ const Resume2 = () => {
 
     return (
         <div className="containerx">
-            <main className="rowx">
+            <motion.main 
+                className="rowx"
+                initial={{ opacity: 0, y: 300 }} 
+                animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
+                transition={{ duration: 1 }}
+            >
                 {/* ******* Education Section Starts ******* */}
                 <section className="colx">
-                <motion.header 
-                  className="titlex" 
-                  initial={{ opacity: 0, y: 300 }} 
-                  animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
-                  transition={{ duration: 1 }}
-                >
-                   <h2>EDUCATION</h2>
-                </motion.header>
+                  <header className="titlex">
+                     <h2>EDUCATION</h2>
+                  </header>
                     
-                    <motion.div 
-                        className="contentsx" 
-                        initial={{ opacity: 0, y: 200 }} 
-                        animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
-                        transition={{ duration: 1 }}
-                        ref={ref}
-                    >
+                    <div className="contentsx">
                         <div className="boxx">
                             <h4>Dec. 2023</h4>
                             <h3>Udemy.Inc</h3>
@@ -68,27 +62,16 @@ const Resume2 = () => {
                             <p>Primary School Leaving Certificate</p>
                             <p>During my primary school years, I began cultivating a curiosity for learning and laying the foundation for my future endeavors.</p>
                         </div>
-                    </motion.div>
+                    </div>
                 </section>
                 {/* ******* Education Section Ends ******* */}
 
                 {/* ******* Experience Section Starts ******* */}
                 <section className="colx">
-                    <motion.header 
-                     className="titlex" 
-                     initial={{ opacity: 0, y: 200 }} 
-                     animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
-                     transition={{ duration: 1 }}
-                    >
+                    <header className="titlex">
                         <h2>EXPERIENCE</h2>
-                    </motion.header>
-                    <motion.div 
-                        className="contentsx" 
-                        initial={{ opacity: 0, y: 200 }} 
-                        animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 150 }} 
-                        transition={{ duration: 1 }}
-                        ref={ref}
-                    >
+                    </header>
+                    <div className="contentsx">
                         <div className="boxx">
                             <h4>2021 - till date</h4>
                             <h3>Interior Product designer at Lyn’s Decor</h3>
@@ -104,10 +87,10 @@ const Resume2 = () => {
                             <h3>Graphics designer at Achievers LLc</h3>
                             <p>As a Graphics Designer at Achievers LLC, I was responsible for creating visually compelling designs for various marketing materials and digital platforms. My role involved conceptualizing and executing innovative design solutions that effectively communicated the company's brand identity and messaging to target audiences.</p>
                         </div>
-                    </motion.div>
+                    </div>
                 </section>
                 {/* ******* Experience Section Ends ******* */}
-            </main>
+            </motion.main>
         </div>
     );
 };
