@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import michaelcv from '../../assets/michaelcv.jpg'; // Corrected file path
+import michaelcv from '../../assets/Michaelcv.pdf'; // Corrected file path
 import { motion } from "framer-motion";
 import './About2.css';
 
