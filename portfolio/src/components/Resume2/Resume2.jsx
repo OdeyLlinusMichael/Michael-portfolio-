@@ -27,6 +27,30 @@ const Resume2 = () => {
                     </header>
                     
                     <div className="contentsx">
+                    <div className="box1">
+                            <div className="boxx">
+                               <h4>jun. 2024</h4>
+                               <h3>Freecodecamp</h3>
+                               <p className="t01"> responsive web design-Developers certification </p>
+                               <p>I earned a Developer Certification in Responsive Web Design from freeCodeCamp, further expanding my skill set and expertise in creating responsive web applications.</p>
+                            </div>
+                        </div>
+                        <div className="box1">
+                            <div className="boxx">
+                               <h4>jun. 2024</h4>
+                               <h3> European open university</h3>
+                               <p> Web Analytics SEO-Professional certification program </p>
+                               <p> I earned a Web Analytics SEO-Developer Certification from European Open University, further expanding my skill set and expertise in search engine optimization and web analytics.</p>
+                            </div>
+                        </div>
+                        <div className="box1">
+                            <div className="boxx">
+                               <h4>Mar. 2024</h4>
+                               <h3>Udemy.Inc</h3>
+                               <p>certificate of completion-flutterFlow beginners, crash course</p>
+                               <p>I completed the FlutterFlow Beginner Crash Course from Udemy, Inc., earning a Certificate of Completion and advancing my proficiency in nocode development.".</p>
+                            </div>
+                        </div> 
                         <div className="box1">
                             <div className="boxx">
                                <h4>Dec. 2023</h4>
