@@ -213,7 +213,8 @@
 .popupap1.open,
 .popupaq1.open,
 .popupar1.open,
-.popupas1.open {
+.popupas1.open,
+.popupat1.open {
   opacity: 1;
   visibility: visible;
 }
@@ -238,7 +239,8 @@
 .popupap2,
 .popupaq2,
 .popupar2,
-.popupas2 {
+.popupas2,
+.popupat2 {
   background-color: #3A3B3C;
   
   border-radius: 8px;
@@ -270,7 +272,8 @@
 .popupap3,
 .popupaq3,
 .popupar3,
-.popupas3 {
+.popupas3, 
+.popupat3 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -297,7 +300,8 @@
 .popupap4,
 .popupaq4,
 .popupar4,
-.popupas4 {
+.popupas4, 
+.popupat4 {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
@@ -326,7 +330,8 @@
 .popupap4 svg,
 .popupaq4 svg,
 .popupar4 svg,
-.popupas4 svg {
+.popupas4 svg, 
+.popupat4 svg {
   width: 20px;
   height: 60px;
 }
@@ -352,7 +357,8 @@
 .popupap5,
 .popupaq5,
 .popupar5,
-.popupas5 {
+.popupas5, 
+.popupat5 {
   display: flex;
   justify-content: center; /* Center the image horizontally */
   align-items: center; /* Center the image vertically */
@@ -379,7 +385,8 @@
 .popupap6,
 .popupaq6,
 .popupar6,
-.popupas6 {
+.popupas6, 
+.popupat6 {
   max-width: 100%; /* Ensure the image doesn't exceed its container */
   max-height: 100%; /* Ensure the image doesn't exceed its container */
   width: auto; /* Allow the image to adjust its auto */
@@ -408,6 +415,7 @@
 .popupaq8,
 .popupar8,
 .popupas8,
+.popupat8,
 .popup11,
 .popupa11,
 .popupaa11,
@@ -428,7 +436,8 @@
 .popupap11,
 .popupaq11,
 .popupar11,
-.popupas11 {
+.popupas11, 
+.popupat11 {
   font-size: 20px;
   margin-bottom: 20px;
   font-weight: 500;
@@ -454,7 +463,8 @@
 .popupap10,
 .popupaq10,
 .popupar10,
-.popupas10 {
+.popupas10, 
+.popupat10 {
   font-size: 30px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -480,7 +490,8 @@
 .popupap12 li,
 .popupaq12 li,
 .popupar12 li,
-.popupas12 li {
+.popupas12 li, 
+.popupat12 li {
   font-size: 20px;
   margin-bottom: 10px;
   text-transform: capitalize;
@@ -507,7 +518,8 @@
 .popupap12 li:last-child,
 .popupaq12 li:last-child,
 .popupar12 li:last-child,
-.popupas12 li:last-child {
+.popupas12 li:last-child,
+.popupat12 li:last-child {
   margin-bottom: 0;
 }
 
@@ -531,7 +543,8 @@
 .popupap12 li span,
 .popupaq12 li span,
 .popupar12 li span,
-.popupas12 li span {
+.popupas12 li span, 
+.popupat12 li span {
   font-weight: normal;
 }
 
@@ -555,7 +568,8 @@
 .popupap12 a,
 .popupaq12 a,
 .popupar12 a,
-.popupas12 a {
+.popupas12 a,
+.popupat12 a {
   color: #ff0000;
   text-decoration: none;
   text-transform: lowercase;
