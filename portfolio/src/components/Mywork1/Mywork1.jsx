@@ -2019,10 +2019,10 @@ const togglepopuppda1 = () => {
                 <div className="popupat5"><img src={all22} alt="" className="popupat6" /></div>
             
             <div className="popupat7">
-                <div className="popupat8">Product - <span>Design</span></div>
+                <div className="popupat8">graphics design - <span>Design</span></div>
                 <div className="popupat9">
-                    <h3 className="popupat10"> This is a invitation card Design</h3>
-                    <p className="popupat11">This wedding invitation card design exudes romance, elegance, and timeless charm, capturing the essence of a love-filled celebration. With its delicate floral motifs, intricate details, and sophisticated typography, it sets the perfect tone for the couple’s special day. Whether it’s a rustic countryside affair, a classic ballroom reception, or a destination wedding, this design effortlessly adapts to reflect the couple’s unique style and vision. Its customizable features allow for personalization, ensuring every invitation is a true reflection of the couple’s love story. From the moment guests receive this invitation, they are transported into a world of love and excitement, setting the stage for a memorable and joyous celebration of union and commitment.</p>
+                    <h3 className="popupat10"> This is a flyer design</h3>
+                    <p className="popupat11">This social media flyer design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This flyer design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
                     <ul className="popupat12">
                         <li>Created - <span>9 Dec 2023</span></li>
                         <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
