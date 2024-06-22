@@ -3118,54 +3118,12 @@ const togglepopuppdo1 = () => {
 </div>
 
 
-<div className="popuppdn1">
-    <div className="popuppdn2">
-        <div className="popuppdn3">
-            <span className="popuppdn4" onClick={togglepopuppdm1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
-                <div className="popuppdn5"><img src={pd14} alt="" className="popuppdn6" /></div>
-            
-            <div className="popuppdn7">
-                <div className="popuppdn8">Product - <span>Design</span></div>
-                <div className="popuppdn9">
-                    <h3 className="popuppdn10"> This is a Product design </h3>
-                    <p className="popuppdn11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
-                    <ul className="popuppdn12">
-                        <li>Created - <span>16 jan 2024</span></li>
-                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
-                        <li>Role - <span>Product design</span></li>
-                        <li>URL - <span><a href="#">none</a></span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
 
-<div className="popuppdo1">
-    <div className="popuppdo2">
-        <div className="popuppdo3">
-            <span className="popuppdo4" onClick={togglepopuppdm1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
-                <div className="popuppdo5"><img src={pd15} alt="" className="popuppdo6" /></div>
-            
-            <div className="popuppdo7">
-                <div className="popuppdo8">Product - <span>Design</span></div>
-                <div className="popuppo9">
-                    <h3 className="popuppdo10"> This is a Product design </h3>
-                    <p className="popuppdo11">This social media Product design captivates viewers with its vibrant visuals and compelling messaging, tailor-made for the digital landscape. Crafted to stand out amidst the scrolling feeds, it entices the audience with eye-catching imagery and concise copy. Whether promoting an event, showcasing a product, or sharing important information, this design effectively captures attention and encourages engagement. With its strategic layout and visually appealing design elements, it prompts viewers to take action, driving traffic and interaction on social media platforms. This Product design is not just visually stunning; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
-                    <ul className="popuppdo12">
-                        <li>Created - <span>16 jan 2024</span></li>
-                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
-                        <li>Role - <span>Product design</span></li>
-                        <li>URL - <span><a href="#">none</a></span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
+
       
     </motion.div>          
     </div>
