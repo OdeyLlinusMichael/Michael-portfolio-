@@ -1984,13 +1984,17 @@
 .popupgdm2,
 .popupgdn2,
 .popupgdo2,
-.popupgdp2  {
+.popupgdp2,
+.popupgdq2,
+.popupgdr2,
+.popupgds2,
+.popupgdt2,
+.popupgdu2,
+.popupgdv2 {
   max-width: 100%; 
   width: 90%; /* Adjusted width for smaller screens */
   padding: 20px; /* Reduced padding for smaller screens */
 }
-
-
 
 .popupgda3,
 .popupgdb3,
@@ -2007,7 +2011,13 @@
 .popupgdm3,
 .popupgdn3,
 .popupgdo3,
-.popupgdp3 {
+.popupgdp3,
+.popupgdq3,
+.popupgdr3,
+.popupgds3,
+.popupgdt3,
+.popupgdu3,
+.popupgdv3 {
   display: flex;
   flex-direction: column; /* Display in a single column on smaller screens */
   align-items: center; /* Center items on smaller screens */
@@ -2028,13 +2038,16 @@
 .popupgdm4,
 .popupgdn4,
 .popupgdo4,
-.popupgdp4 {
+.popupgdp4,
+.popupgdq4,
+.popupgdr4,
+.popupgds4,
+.popupgdt4,
+.popupgdu4,
+.popupgdv4 {
   top: 1rem; /* Adjusted top position for smaller screens */
   right: 1rem; /* Adjusted right position for smaller screens */
 }
-
-
-
 
 .popupgda5,
 .popupgdb5,
@@ -2051,7 +2064,13 @@
 .popupgdm5,
 .popupgdn5,
 .popupgdo5,
-.popupgdp5 {
+.popupgdp5,
+.popupgdq5,
+.popupgdr5,
+.popupgds5,
+.popupgdt5,
+.popupgdu5,
+.popupgdv5 {
   display: flex;
   justify-content: center; /* Center the image horizontally */
   align-items: center; /* Center the image vertically */
@@ -2073,14 +2092,18 @@
 .popupgdm6,
 .popupgdn6,
 .popupgdo6,
-.popupgdp6 {
+.popupgdp6,
+.popupgdq6,
+.popupgdr6,
+.popupgds6,
+.popupgdt6,
+.popupgdu6,
+.popupgdv6 {
   max-width: 100%; /* Ensure the image doesn't exceed its container */
   max-height: 100%; /* Ensure the image doesn't exceed its container */
   width: auto; /* Allow the image to adjust its auto */
   height: auto; /* Allow the image to adjust its height */
 }
-
-
 
 .popupgda8,
 .popupgdb8,
@@ -2098,6 +2121,12 @@
 .popupgdn8,
 .popupgdo8,
 .popupgdp8,
+.popupgdq8,
+.popupgdr8,
+.popupgds8,
+.popupgdt8,
+.popupgdu8,
+.popupgdv8,
 .popupgda11,
 .popupgdb11,
 .popupgdc11,
@@ -2113,7 +2142,13 @@
 .popupgdm11,
 .popupgdn11,
 .popupgdo11,
-.popupgdp11 {
+.popupgdp11,
+.popupgdq11,
+.popupgdr11,
+.popupgds11,
+.popupgdt11,
+.popupgdu11,
+.popupgdv11 {
   font-size: 11px; /* Decreased font size for smaller screens */
   text-align: center; /* Center text on smaller screens */
 }
@@ -2133,7 +2168,13 @@
 .popupgdm10,
 .popupgdn10,
 .popupgdo10,
-.popupgdp10 {
+.popupgdp10,
+.popupgdq10,
+.popupgdr10,
+.popupgds10,
+.popupgdt10,
+.popupgdu10,
+.popupgdv10 {
   font-size: 15px; /* Decreased font size for smaller screens */
   text-align: center; /* Center text on smaller screens */
 }
@@ -2153,7 +2194,13 @@
 .popupgdm12 li,
 .popupgdn12 li,
 .popupgdo12 li,
-.popupgdp12 li {
+.popupgdp12 li,
+.popupgdq12 li,
+.popupgdr12 li,
+.popupgds12 li,
+.popupgdt12 li,
+.popupgdu12 li,
+.popupgdv12 li {
   font-size: 11px; /* Decreased font size for smaller screens */
 }
 
@@ -2172,13 +2219,18 @@
 .popupgdm12 a,
 .popupgdn12 a,
 .popupgdo12 a,
-.popupgdp12 a {
+.popupgdp12 a,
+.popupgdq12 a,
+.popupgdr12 a,
+.popupgds12 a,
+.popupgdt12 a,
+.popupgdu12 a,
+.popupgdv12 a {
   text-align: center;
   font-size: 9px; 
   color: #ff0000;
   text-transform: lowercase; /* Corrected placement */
 }
-
 
 
 
