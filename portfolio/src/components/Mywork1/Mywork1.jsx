@@ -2426,10 +2426,10 @@ const togglepopuppdo1 = () => {
                 <div className="popupgde5"><img src={gg5} alt="" className="popupgde6" /></div>
             
             <div className="popupgde7">
-                <div className="popupgde8">Logo - <span>Design</span></div>
+                <div className="popupgde8">Flyer Design <span>Design</span></div>
                 <div className="popupgde9">
-                    <h3 className="popupgde10"> This is a logo Design</h3>
-                    <p className="popupgde11">This logo design for John Kent Fashion epitomizes sophistication, elegance, and timeless style. Crafted with meticulous attention to detail, it captures the essence of the brand’s commitment to luxury and refinement. The sleek typography and tastefully integrated graphic elements convey a sense of prestige and exclusivity, reflecting the company’s dedication to high-quality craftsmanship and impeccable design. Whether featured on clothing labels, packaging, or digital platforms, this logo serves as a powerful symbol of the John Kent brand, evoking a sense of allure and sophistication that resonates with discerning fashion enthusiasts worldwide.</p>
+                    <h3 className="popupgde10">This is a Flyer Design for social media post</h3>
+                    <p className="popupgde11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
                     <ul className="popupgde12">
                         <li>Created - <span>2 may 2022</span></li>
                         <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
