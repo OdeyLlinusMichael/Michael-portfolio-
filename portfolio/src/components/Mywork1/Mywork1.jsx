@@ -1319,6 +1319,15 @@ const togglepopuppdo1 = () => {
               </div>
             </div>
 
+            <div className="porp5">
+              <img src={gg20} alt="" />
+              <div className="porp6000">
+                <h3>Graphics design</h3>
+                <p>That is a Graphics design click the icon to get more info</p>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdt1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              </div>
+            </div>
+
           </div>
           
           
@@ -1374,6 +1383,24 @@ const togglepopuppdo1 = () => {
                 <h3>Graphics design</h3>
                 <p>That is a Graphics design click the icon to get more info</p>
                 <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdr1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              </div>
+            </div>
+
+            <div className="porp5">
+              <img src={gg21} alt="" />
+              <div className="porp6000">
+                <h3>Graphics design</h3>
+                <p>That is a Graphics design click the icon to get more info</p>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdu1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
+              </div>
+            </div>
+
+            <div className="porp5">
+              <img src={gg22} alt="" />
+              <div className="porp6000">
+                <h3>Graphics design</h3>
+                <p>That is a Graphics design click the icon to get more info</p>
+                <a><svg xmlns="http://www.w3.org/2000/svg" className="fa-solid fa-arrow-up-right-from-square fa-2xl ffspecificqw" viewBox="0 0 512 512" onClick={togglepopupgdv1}><path fill="#ff0000" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg></a>
               </div>
             </div>
             
@@ -2847,6 +2874,160 @@ const togglepopuppdo1 = () => {
 
 
 
+
+
+<div className="popupgdq1">
+    <div className="popupgdq2">
+        <div className="popupgdq3">
+            <span className="popupgdq4" onClick={togglepopupgdq1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdq5"><img src={gg17} alt="" className="popupgdq6" /></div>
+            
+            <div className="popupgdq7">
+                <div className="popupgdq8">Flyer - <span>Design</span></div>
+                <div className="popupgdq9">
+                    <h3 className="popupgdq10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdq11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdq12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div className="popupgdr1">
+    <div className="popupgdr2">
+        <div className="popupgdr3">
+            <span className="popupgdr4" onClick={togglepopupgdr1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdr5"><img src={gg18} alt="" className="popupgdr6" /></div>
+            
+            <div className="popupgdr7">
+                <div className="popupgdr8">Flyer - <span>Design</span></div>
+                <div className="popupgdr9">
+                    <h3 className="popupgdr10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdr11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdr12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div className="popupgds1">
+    <div className="popupgds2">
+        <div className="popupgds3">
+            <span className="popupgds4" onClick={togglepopupgds1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgds5"><img src={gg19} alt="" className="popupgds6" /></div>
+            
+            <div className="popupgds7">
+                <div className="popupgds8">Flyer - <span>Design</span></div>
+                <div className="popupgds9">
+                    <h3 className="popupgds10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgds11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgds12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div className="popupgdt1">
+    <div className="popupgdt2">
+        <div className="popupgdt3">
+            <span className="popupgdt4" onClick={togglepopupgdt1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdt5"><img src={gg20} alt="" className="popupgdt6" /></div>
+            
+            <div className="popupgdt7">
+                <div className="popupgdt8">Flyer - <span>Design</span></div>
+                <div className="popupgdt9">
+                    <h3 className="popupgdt10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdt11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdt12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div className="popupgdu1">
+    <div className="popupgdu2">
+        <div className="popupgdu3">
+            <span className="popupgdu4" onClick={togglepopupgdu1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdu5"><img src={gg21} alt="" className="popupgdu6" /></div>
+            
+            <div className="popupgdu7">
+                <div className="popupgdu8">Flyer - <span>Design</span></div>
+                <div className="popupgdu9">
+                    <h3 className="popupgdu10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdu11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdu12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div className="popupgdv1">
+    <div className="popupgdv2">
+        <div className="popupgdv3">
+            <span className="popupgdv4" onClick={togglepopupgdv1}><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" className="fas fa-times" ><path fill="#ff0000" d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg></span>
+                <div className="popupgdv5"><img src={gg22} alt="" className="popupgdv6" /></div>
+            
+            <div className="popupgdv7">
+                <div className="popupgdv8">Flyer - <span>Design</span></div>
+                <div className="popupgdv9">
+                    <h3 className="popupgdv10"> This is a Flyer Design for social media post</h3>
+                    <p className="popupgdv11">This social media flyer design captures attention and encourages engagement with its vibrant visuals and compelling messaging. Tailored specifically for online platforms, it maximizes impact within the constraints of the digital space, ensuring your message stands out amidst the noise. Whether promoting an event, showcasing a product, or sharing important information, this design effectively communicates your message in a concise and visually appealing format. With strategic use of colors, typography, and imagery, it entices viewers to take action, driving traffic and engagement on your social media channels. This flyer design is not just visually appealing; it’s a powerful tool for increasing brand visibility and engagement in the digital sphere.</p>
+                    <ul className="popupgdv12">
+                        <li>Created - <span>10 Feb 2023</span></li>
+                        <li>Technology - <span>Adobe illustrator & Adobe Photoshop</span></li>
+                        <li>Role - <span>flyer Design</span></li>
+                        <li>URL - <span><a href="#">none</a></span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
