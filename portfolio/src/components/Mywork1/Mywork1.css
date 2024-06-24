@@ -804,7 +804,13 @@
 .popupgdm1,
 .popupgdn1, 
 .popupgdo1,
-.popupgdp1 {
+.popupgdp1,
+.popupgdq1,
+.popupgdr1, 
+.popupgds1,
+.popupgdt1, 
+.popupgdu1,
+.popupgdv1 {
   position: fixed;
   top: 0;
   left: 0;
@@ -836,7 +842,13 @@
 .popupgdm1.open,
 .popupgdn1.open, 
 .popupgdo1.open,
-.popupgdp1.open {
+.popupgdp1.open,
+.popupgdq1.open,
+.popupgdr1.open, 
+.popupgds1.open,
+.popupgdt1.open, 
+.popupgdu1.open,
+.popupgdv1.open {
   opacity: 1;
   visibility: visible;
 }
@@ -856,12 +868,18 @@
 .popupgdm2,
 .popupgdn2, 
 .popupgdo2,
-.popupgdp2 {
+.popupgdp2,
+.popupgdq2,
+.popupgdr2, 
+.popupgds2,
+.popupgdt2, 
+.popupgdu2,
+.popupgdv2 {
   background-color: #3A3B3C;
   border-radius: 8px;
   position: relative;
   max-width: 100%; 
-  width: 90%; /* width: 1200px; padding: 40px; */
+  width: 90%;
   padding: 20px;
 }
 
@@ -880,7 +898,13 @@
 .popupgdm3,
 .popupgdn3, 
 .popupgdo3,
-.popupgdp3 {
+.popupgdp3,
+.popupgdq3,
+.popupgdr3, 
+.popupgds3,
+.popupgdt3, 
+.popupgdu3,
+.popupgdv3 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -902,7 +926,13 @@
 .popupgdm4,
 .popupgdn4, 
 .popupgdo4,
-.popupgdp4 {
+.popupgdp4,
+.popupgdq4,
+.popupgdr4, 
+.popupgds4,
+.popupgdt4, 
+.popupgdu4,
+.popupgdv4 {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
@@ -926,7 +956,13 @@
 .popupgdm4 svg,
 .popupgdn4 svg, 
 .popupgdo4 svg,
-.popupgdp4 svg {
+.popupgdp4 svg,
+.popupgdq4 svg,
+.popupgdr4 svg, 
+.popupgds4 svg,
+.popupgdt4 svg, 
+.popupgdu4 svg,
+.popupgdv4 svg {
   width: 20px;
   height: 60px;
 }
@@ -946,13 +982,18 @@
 .popupgdm5,
 .popupgdn5,
 .popupgdo5,
-.popupgdp5 {
+.popupgdp5,
+.popupgdq5,
+.popupgdr5, 
+.popupgds5,
+.popupgdt5, 
+.popupgdu5,
+.popupgdv5 {
   display: flex;
-  justify-content: center; /* Center the image horizontally */
-  align-items: center; /* Center the image vertically */
-  height: 700px; /* Set a fixed height for the container */
-} 
-
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+}
 
 .popupgda6,
 .popupgdb6,
@@ -969,13 +1010,18 @@
 .popupgdm6,
 .popupgdn6,
 .popupgdo6,
-.popupgdp6 {
-  max-width: 100%; /* Ensure the image doesn't exceed its container */
-  max-height: 100%; /* Ensure the image doesn't exceed its container */
-  width: auto; /* Allow the image to adjust its auto */
-  height: auto; /* Allow the image to adjust its height */
+.popupgdp6,
+.popupgdq6,
+.popupgdr6, 
+.popupgds6,
+.popupgdt6, 
+.popupgdu6,
+.popupgdv6 {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
 }
-
 
 .popupgda8,
 .popupgdb8,
@@ -993,6 +1039,12 @@
 .popupgdn8, 
 .popupgdo8,
 .popupgdp8,
+.popupgdq8,
+.popupgdr8, 
+.popupgds8,
+.popupgdt8, 
+.popupgdu8,
+.popupgdv8,
 .popupgda11,
 .popupgdb11,
 .popupgdc11,
@@ -1008,7 +1060,13 @@
 .popupgdm11,
 .popupgdn11, 
 .popupgdo11,
-.popupgdp11 {
+.popupgdp11,
+.popupgdq11,
+.popupgdr11, 
+.popupgds11,
+.popupgdt11, 
+.popupgdu11,
+.popupgdv11 {
   font-size: 20px;
   margin-bottom: 20px;
   font-weight: 500;
@@ -1029,7 +1087,13 @@
 .popupgdm10,
 .popupgdn10, 
 .popupgdo10,
-.popupgdp10 {
+.popupgdp10,
+.popupgdq10,
+.popupgdr10, 
+.popupgds10,
+.popupgdt10, 
+.popupgdu10,
+.popupgdv10 {
   font-size: 30px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -1050,7 +1114,13 @@
 .popupgdm12 li,
 .popupgdn12 li, 
 .popupgdo12 li,
-.popupgdp12 li {
+.popupgdp12 li,
+.popupgdq12 li,
+.popupgdr12 li, 
+.popupgds12 li,
+.popupgdt12 li, 
+.popupgdu12 li,
+.popupgdv12 li {
   font-size: 20px;
   margin-bottom: 10px;
   text-transform: capitalize;
@@ -1072,7 +1142,13 @@
 .popupgdm12 li:last-child,
 .popupgdn12 li:last-child, 
 .popupgdo12 li:last-child,
-.popupgdp12 li:last-child {
+.popupgdp12 li:last-child,
+.popupgdq12 li:last-child,
+.popupgdr12 li:last-child, 
+.popupgds12 li:last-child,
+.popupgdt12 li:last-child, 
+.popupgdu12 li:last-child,
+.popupgdv12 li:last-child {
   margin-bottom: 0;
 }
 
@@ -1091,7 +1167,13 @@
 .popupgdm12 li span,
 .popupgdn12 li span, 
 .popupgdo12 li span,
-.popupgdp12 li span {
+.popupgdp12 li span,
+.popupgdq12 li span,
+.popupgdr12 li span, 
+.popupgds12 li span,
+.popupgdt12 li span, 
+.popupgdu12 li span,
+.popupgdv12 li span {
   font-weight: normal;
 }
 
@@ -1110,11 +1192,18 @@
 .popupgdm12 a,
 .popupgdn12 a, 
 .popupgdo12 a,
-.popupgdp12 a {
+.popupgdp12 a,
+.popupgdq12 a,
+.popupgdr12 a, 
+.popupgds12 a,
+.popupgdt12 a, 
+.popupgdu12 a,
+.popupgdv12 a {
   color: #ff0000;
   text-decoration: none;
   text-transform: lowercase;
 }
+
 
 
                   /* popup product  design */
